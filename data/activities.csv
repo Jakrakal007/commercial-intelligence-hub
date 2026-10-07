@@ -1,0 +1,401 @@
+activity_id,lead_id,opportunity_id,executive,activity_type,activity_date,notes
+ACT-0001,LEAD-0001,,Diego Salazar,Seguimiento,2026-04-24,Pendiente confirmación del cliente.
+ACT-0002,LEAD-0002,,Carlos Mendoza,Reunión,2026-06-29,Se realizó reunión de presentación.
+ACT-0003,LEAD-0003,,Diego Salazar,Email,2026-04-26,Se recibió una consulta comercial inicial.
+ACT-0004,LEAD-0004,,Carlos Mendoza,Email,2025-12-12,Se compartió información del producto.
+ACT-0005,LEAD-0005,,Andrea Torres,Email,2026-05-11,Se recibió una consulta comercial inicial.
+ACT-0006,LEAD-0006,,Lucía Vega,Email,2026-08-27,Se recibió una consulta comercial inicial.
+ACT-0007,LEAD-0007,,Andrea Torres,Email,2026-09-19,Se recibió una consulta comercial inicial.
+ACT-0008,LEAD-0008,,Lucía Vega,Email,2026-01-05,Se compartió información del producto.
+ACT-0009,LEAD-0009,,Carlos Mendoza,Reunión,2025-10-12,Se realizó reunión de presentación.
+ACT-0010,LEAD-0010,,Diego Salazar,Email,2025-10-22,Se recibió una consulta comercial inicial.
+ACT-0011,LEAD-0011,,Carlos Mendoza,Email,2026-08-22,Se recibió una consulta comercial inicial.
+ACT-0012,LEAD-0012,,Diego Salazar,Seguimiento,2026-09-03,Cliente evaluando alternativas.
+ACT-0013,LEAD-0013,,Lucía Vega,Email,2026-08-26,Se recibió una consulta comercial inicial.
+ACT-0014,LEAD-0014,,Diego Salazar,Email,2026-04-20,Se compartió información del producto.
+ACT-0015,LEAD-0015,,Lucía Vega,Email,2025-12-03,Se recibió una consulta comercial inicial.
+ACT-0016,LEAD-0016,,Andrea Torres,Seguimiento,2025-11-08,Cliente evaluando alternativas.
+ACT-0017,LEAD-0017,,Diego Salazar,Reunión,2026-06-28,Se revisaron las necesidades del cliente.
+ACT-0018,LEAD-0018,,Carlos Mendoza,Email,2026-03-07,Se recibió una consulta comercial inicial.
+ACT-0019,LEAD-0019,,Andrea Torres,Llamada,2025-11-20,Cliente solicita información adicional.
+ACT-0020,LEAD-0020,,Andrea Torres,Llamada,2025-12-02,Se coordinó una próxima conversación.
+ACT-0021,LEAD-0021,,Diego Salazar,Email,2025-12-25,Se recibió una consulta comercial inicial.
+ACT-0022,LEAD-0022,,Diego Salazar,Llamada,2026-05-08,Se coordinó una próxima conversación.
+ACT-0023,LEAD-0023,,Lucía Vega,Llamada,2026-08-18,Se coordinó una próxima conversación.
+ACT-0024,LEAD-0024,,Lucía Vega,Email,2026-05-01,Se recibió una consulta comercial inicial.
+ACT-0025,LEAD-0025,,Diego Salazar,Llamada,2025-12-06,Cliente solicita información adicional.
+ACT-0026,LEAD-0026,,Andrea Torres,Llamada,2025-11-18,Cliente solicita información adicional.
+ACT-0027,LEAD-0027,,Diego Salazar,Email,2026-06-26,Se compartió información del producto.
+ACT-0028,LEAD-0028,,Carlos Mendoza,Llamada,2026-08-23,Cliente solicita información adicional.
+ACT-0029,LEAD-0029,,Andrea Torres,Seguimiento,2026-08-21,Pendiente confirmación del cliente.
+ACT-0030,LEAD-0030,,Lucía Vega,Seguimiento,2025-11-24,Cliente evaluando alternativas.
+ACT-0031,LEAD-0031,,Lucía Vega,Reunión,2026-06-05,Se realizó reunión de presentación.
+ACT-0032,LEAD-0032,,Carlos Mendoza,Presentación,2025-09-30,Se presentaron las características del producto.
+ACT-0033,LEAD-0033,,Carlos Mendoza,Email,2026-08-12,Se compartió información del producto.
+ACT-0034,LEAD-0034,,Lucía Vega,Seguimiento,2026-08-08,Pendiente confirmación del cliente.
+ACT-0035,LEAD-0035,,Andrea Torres,Reunión,2026-06-27,Se realizó reunión de presentación.
+ACT-0036,LEAD-0036,,Diego Salazar,Llamada,2026-04-10,Se coordinó una próxima conversación.
+ACT-0037,LEAD-0037,,Andrea Torres,Email,2026-06-30,Se compartió información del producto.
+ACT-0038,LEAD-0038,,Andrea Torres,Presentación,2026-06-09,Se presentaron las características del producto.
+ACT-0039,LEAD-0039,,Diego Salazar,Email,2026-05-03,Se recibió una consulta comercial inicial.
+ACT-0040,LEAD-0040,,Diego Salazar,Presentación,2025-12-28,Se presentaron las características del producto.
+ACT-0041,LEAD-0041,,Carlos Mendoza,Seguimiento,2026-06-17,Cliente evaluando alternativas.
+ACT-0042,LEAD-0042,,Diego Salazar,Email,2026-08-16,Se recibió una consulta comercial inicial.
+ACT-0043,LEAD-0043,,Lucía Vega,Reunión,2026-02-13,Se revisaron las necesidades del cliente.
+ACT-0044,LEAD-0044,,Andrea Torres,Seguimiento,2026-03-17,Cliente evaluando alternativas.
+ACT-0045,LEAD-0045,,Diego Salazar,Reunión,2026-05-21,Se realizó reunión de presentación.
+ACT-0046,LEAD-0046,,Diego Salazar,Email,2026-07-08,Se recibió una consulta comercial inicial.
+ACT-0047,LEAD-0047,,Andrea Torres,Llamada,2026-01-13,Se coordinó una próxima conversación.
+ACT-0048,LEAD-0048,,Carlos Mendoza,Reunión,2026-03-12,Se realizó reunión de presentación.
+ACT-0049,LEAD-0049,,Diego Salazar,Presentación,2026-06-21,Se presentaron las características del producto.
+ACT-0050,LEAD-0050,,Lucía Vega,Reunión,2025-11-13,Se revisaron las necesidades del cliente.
+ACT-0051,LEAD-0051,,Carlos Mendoza,Email,2026-07-12,Se compartió información del producto.
+ACT-0052,LEAD-0052,,Lucía Vega,Seguimiento,2026-07-13,Pendiente confirmación del cliente.
+ACT-0053,LEAD-0053,,Lucía Vega,Email,2026-04-04,Se compartió información del producto.
+ACT-0054,LEAD-0054,,Carlos Mendoza,Llamada,2026-04-22,Cliente solicita información adicional.
+ACT-0055,LEAD-0055,,Diego Salazar,Email,2026-04-06,Se recibió una consulta comercial inicial.
+ACT-0056,LEAD-0056,,Andrea Torres,Llamada,2026-06-17,Se coordinó una próxima conversación.
+ACT-0057,LEAD-0057,,Andrea Torres,Reunión,2025-11-01,Se realizó reunión de presentación.
+ACT-0058,LEAD-0058,,Andrea Torres,Reunión,2026-05-17,Se realizó reunión de presentación.
+ACT-0059,LEAD-0059,,Andrea Torres,Reunión,2025-12-20,Se revisaron las necesidades del cliente.
+ACT-0060,LEAD-0060,,Lucía Vega,Email,2026-08-16,Se recibió una consulta comercial inicial.
+ACT-0061,LEAD-0061,,Lucía Vega,Email,2026-09-09,Se recibió una consulta comercial inicial.
+ACT-0062,LEAD-0062,,Diego Salazar,Reunión,2026-06-10,Se revisaron las necesidades del cliente.
+ACT-0063,LEAD-0063,,Diego Salazar,Llamada,2026-03-11,Cliente solicita información adicional.
+ACT-0064,LEAD-0064,,Carlos Mendoza,Seguimiento,2025-12-29,Cliente evaluando alternativas.
+ACT-0065,LEAD-0065,,Andrea Torres,Presentación,2026-03-05,Se presentaron las características del producto.
+ACT-0066,LEAD-0066,,Andrea Torres,Llamada,2026-07-15,Cliente solicita información adicional.
+ACT-0067,LEAD-0067,,Carlos Mendoza,Email,2026-02-11,Se recibió una consulta comercial inicial.
+ACT-0068,LEAD-0068,,Carlos Mendoza,Seguimiento,2026-06-14,Pendiente confirmación del cliente.
+ACT-0069,LEAD-0069,,Lucía Vega,Seguimiento,2025-10-20,Cliente evaluando alternativas.
+ACT-0070,LEAD-0070,,Lucía Vega,Email,2026-09-11,Se recibió una consulta comercial inicial.
+ACT-0071,LEAD-0071,,Andrea Torres,Llamada,2026-07-17,Cliente solicita información adicional.
+ACT-0072,LEAD-0072,,Carlos Mendoza,Llamada,2026-06-17,Cliente solicita información adicional.
+ACT-0073,LEAD-0073,,Lucía Vega,Email,2026-06-17,Se compartió información del producto.
+ACT-0074,LEAD-0074,,Lucía Vega,Email,2025-11-16,Se recibió una consulta comercial inicial.
+ACT-0075,LEAD-0075,,Lucía Vega,Email,2026-04-11,Se recibió una consulta comercial inicial.
+ACT-0076,LEAD-0076,,Lucía Vega,Email,2026-04-25,Se recibió una consulta comercial inicial.
+ACT-0077,LEAD-0077,,Lucía Vega,Llamada,2026-06-10,Cliente solicita información adicional.
+ACT-0078,LEAD-0078,,Lucía Vega,Seguimiento,2025-10-22,Cliente evaluando alternativas.
+ACT-0079,LEAD-0079,,Lucía Vega,Email,2026-08-13,Se compartió información del producto.
+ACT-0080,LEAD-0080,,Diego Salazar,Llamada,2026-08-17,Se coordinó una próxima conversación.
+ACT-0081,LEAD-0081,,Diego Salazar,Email,2026-03-29,Se recibió una consulta comercial inicial.
+ACT-0082,LEAD-0082,,Diego Salazar,Seguimiento,2026-03-20,Cliente evaluando alternativas.
+ACT-0083,LEAD-0083,,Andrea Torres,Email,2026-05-25,Se recibió una consulta comercial inicial.
+ACT-0084,LEAD-0084,,Diego Salazar,Email,2026-06-10,Se recibió una consulta comercial inicial.
+ACT-0085,LEAD-0085,,Andrea Torres,Llamada,2026-06-10,Se coordinó una próxima conversación.
+ACT-0086,LEAD-0086,,Diego Salazar,Email,2026-05-30,Se recibió una consulta comercial inicial.
+ACT-0087,LEAD-0087,,Andrea Torres,Presentación,2026-08-12,Se presentaron las características del producto.
+ACT-0088,LEAD-0088,,Andrea Torres,Presentación,2026-09-19,Se presentaron las características del producto.
+ACT-0089,LEAD-0089,,Andrea Torres,Email,2025-11-26,Se recibió una consulta comercial inicial.
+ACT-0090,LEAD-0090,,Carlos Mendoza,Reunión,2026-05-20,Se realizó reunión de presentación.
+ACT-0091,LEAD-0091,,Diego Salazar,Seguimiento,2026-06-21,Pendiente confirmación del cliente.
+ACT-0092,LEAD-0092,,Lucía Vega,Presentación,2026-04-13,Se presentaron las características del producto.
+ACT-0093,LEAD-0093,,Diego Salazar,Email,2026-02-23,Se compartió información del producto.
+ACT-0094,LEAD-0094,,Carlos Mendoza,Llamada,2026-01-26,Se coordinó una próxima conversación.
+ACT-0095,LEAD-0095,,Lucía Vega,Llamada,2026-07-16,Se coordinó una próxima conversación.
+ACT-0096,LEAD-0096,,Carlos Mendoza,Email,2026-06-28,Se compartió información del producto.
+ACT-0097,LEAD-0097,,Andrea Torres,Email,2026-04-10,Se recibió una consulta comercial inicial.
+ACT-0098,LEAD-0098,,Lucía Vega,Llamada,2026-02-17,Cliente solicita información adicional.
+ACT-0099,LEAD-0099,,Lucía Vega,Llamada,2026-02-16,Cliente solicita información adicional.
+ACT-0100,LEAD-0100,,Carlos Mendoza,Email,2026-03-19,Se recibió una consulta comercial inicial.
+ACT-0101,LEAD-0101,,Andrea Torres,Seguimiento,2026-03-23,Pendiente confirmación del cliente.
+ACT-0102,LEAD-0102,,Diego Salazar,Llamada,2026-03-04,Se coordinó una próxima conversación.
+ACT-0103,LEAD-0103,,Carlos Mendoza,Reunión,2026-01-23,Se realizó reunión de presentación.
+ACT-0104,LEAD-0104,,Diego Salazar,Llamada,2026-05-12,Se coordinó una próxima conversación.
+ACT-0105,LEAD-0105,,Andrea Torres,Llamada,2025-12-11,Cliente solicita información adicional.
+ACT-0106,LEAD-0106,,Lucía Vega,Llamada,2026-04-20,Cliente solicita información adicional.
+ACT-0107,LEAD-0107,,Carlos Mendoza,Email,2026-01-24,Se compartió información del producto.
+ACT-0108,LEAD-0108,,Andrea Torres,Email,2026-05-27,Se compartió información del producto.
+ACT-0109,LEAD-0109,,Lucía Vega,Email,2026-02-16,Se compartió información del producto.
+ACT-0110,LEAD-0110,,Diego Salazar,Reunión,2026-07-25,Se realizó reunión de presentación.
+ACT-0111,LEAD-0111,,Carlos Mendoza,Reunión,2026-06-25,Se realizó reunión de presentación.
+ACT-0112,LEAD-0112,,Diego Salazar,Reunión,2026-05-24,Se realizó reunión de presentación.
+ACT-0113,LEAD-0113,,Andrea Torres,Email,2026-09-11,Se recibió una consulta comercial inicial.
+ACT-0114,LEAD-0114,,Carlos Mendoza,Llamada,2025-11-10,Cliente solicita información adicional.
+ACT-0115,LEAD-0115,,Andrea Torres,Llamada,2026-02-08,Se coordinó una próxima conversación.
+ACT-0116,LEAD-0116,,Andrea Torres,Email,2026-08-10,Se recibió una consulta comercial inicial.
+ACT-0117,LEAD-0117,,Carlos Mendoza,Email,2025-11-08,Se recibió una consulta comercial inicial.
+ACT-0118,LEAD-0118,,Diego Salazar,Llamada,2026-03-02,Se coordinó una próxima conversación.
+ACT-0119,LEAD-0119,,Carlos Mendoza,Email,2026-02-09,Se recibió una consulta comercial inicial.
+ACT-0120,LEAD-0120,,Lucía Vega,Llamada,2026-07-25,Cliente solicita información adicional.
+ACT-0121,LEAD-0121,,Diego Salazar,Email,2025-11-18,Se recibió una consulta comercial inicial.
+ACT-0122,LEAD-0122,,Andrea Torres,Llamada,2025-10-22,Se coordinó una próxima conversación.
+ACT-0123,LEAD-0123,,Lucía Vega,Email,2026-05-26,Se compartió información del producto.
+ACT-0124,LEAD-0124,,Lucía Vega,Llamada,2026-04-13,Cliente solicita información adicional.
+ACT-0125,LEAD-0125,,Lucía Vega,Email,2026-05-23,Se recibió una consulta comercial inicial.
+ACT-0126,LEAD-0126,,Lucía Vega,Llamada,2026-03-07,Se coordinó una próxima conversación.
+ACT-0127,LEAD-0127,,Lucía Vega,Llamada,2025-10-23,Cliente solicita información adicional.
+ACT-0128,LEAD-0128,,Carlos Mendoza,Seguimiento,2025-12-07,Cliente evaluando alternativas.
+ACT-0129,LEAD-0129,,Carlos Mendoza,Reunión,2026-04-20,Se revisaron las necesidades del cliente.
+ACT-0130,LEAD-0130,,Carlos Mendoza,Reunión,2025-12-29,Se realizó reunión de presentación.
+ACT-0131,LEAD-0131,,Andrea Torres,Llamada,2025-09-26,Se coordinó una próxima conversación.
+ACT-0132,LEAD-0132,,Lucía Vega,Presentación,2026-07-01,Se presentaron las características del producto.
+ACT-0133,LEAD-0133,,Diego Salazar,Reunión,2026-04-25,Se realizó reunión de presentación.
+ACT-0134,LEAD-0134,,Diego Salazar,Llamada,2025-09-29,Cliente solicita información adicional.
+ACT-0135,LEAD-0135,,Diego Salazar,Llamada,2025-10-29,Se coordinó una próxima conversación.
+ACT-0136,LEAD-0136,,Andrea Torres,Email,2026-03-24,Se recibió una consulta comercial inicial.
+ACT-0137,LEAD-0137,,Lucía Vega,Email,2026-03-14,Se compartió información del producto.
+ACT-0138,LEAD-0138,,Andrea Torres,Presentación,2026-06-19,Se presentaron las características del producto.
+ACT-0139,LEAD-0139,,Carlos Mendoza,Llamada,2025-12-26,Se coordinó una próxima conversación.
+ACT-0140,LEAD-0140,,Andrea Torres,Llamada,2026-07-05,Cliente solicita información adicional.
+ACT-0141,LEAD-0141,,Andrea Torres,Reunión,2026-06-11,Se revisaron las necesidades del cliente.
+ACT-0142,LEAD-0142,,Andrea Torres,Email,2026-06-04,Se compartió información del producto.
+ACT-0143,LEAD-0143,,Carlos Mendoza,Email,2026-08-04,Se recibió una consulta comercial inicial.
+ACT-0144,LEAD-0144,,Carlos Mendoza,Email,2026-06-22,Se recibió una consulta comercial inicial.
+ACT-0145,LEAD-0145,,Lucía Vega,Seguimiento,2025-10-12,Pendiente confirmación del cliente.
+ACT-0146,LEAD-0146,,Lucía Vega,Llamada,2026-03-11,Cliente solicita información adicional.
+ACT-0147,LEAD-0147,,Lucía Vega,Seguimiento,2025-11-20,Cliente evaluando alternativas.
+ACT-0148,LEAD-0148,,Carlos Mendoza,Seguimiento,2026-04-27,Pendiente confirmación del cliente.
+ACT-0149,LEAD-0149,,Lucía Vega,Email,2026-06-22,Se recibió una consulta comercial inicial.
+ACT-0150,LEAD-0150,,Diego Salazar,Llamada,2026-06-05,Se coordinó una próxima conversación.
+ACT-0151,LEAD-0151,,Lucía Vega,Reunión,2026-01-16,Se revisaron las necesidades del cliente.
+ACT-0152,LEAD-0152,,Andrea Torres,Email,2026-05-01,Se compartió información del producto.
+ACT-0153,LEAD-0153,,Lucía Vega,Llamada,2026-06-01,Cliente solicita información adicional.
+ACT-0154,LEAD-0154,,Carlos Mendoza,Email,2026-08-02,Se recibió una consulta comercial inicial.
+ACT-0155,LEAD-0155,,Lucía Vega,Reunión,2026-06-07,Se realizó reunión de presentación.
+ACT-0156,LEAD-0156,,Andrea Torres,Reunión,2025-12-25,Se revisaron las necesidades del cliente.
+ACT-0157,LEAD-0157,,Lucía Vega,Llamada,2025-12-11,Cliente solicita información adicional.
+ACT-0158,LEAD-0158,,Carlos Mendoza,Reunión,2026-06-10,Se revisaron las necesidades del cliente.
+ACT-0159,LEAD-0159,,Andrea Torres,Llamada,2026-06-05,Cliente solicita información adicional.
+ACT-0160,LEAD-0160,,Carlos Mendoza,Llamada,2026-08-01,Cliente solicita información adicional.
+ACT-0161,LEAD-0161,,Diego Salazar,Email,2026-08-06,Se recibió una consulta comercial inicial.
+ACT-0162,LEAD-0162,,Andrea Torres,Reunión,2026-08-10,Se revisaron las necesidades del cliente.
+ACT-0163,LEAD-0163,,Diego Salazar,Email,2026-06-21,Se recibió una consulta comercial inicial.
+ACT-0164,LEAD-0164,,Carlos Mendoza,Llamada,2025-10-29,Se coordinó una próxima conversación.
+ACT-0165,LEAD-0165,,Lucía Vega,Llamada,2026-03-17,Se coordinó una próxima conversación.
+ACT-0166,LEAD-0166,,Lucía Vega,Seguimiento,2026-06-24,Pendiente confirmación del cliente.
+ACT-0167,LEAD-0167,,Diego Salazar,Email,2025-10-19,Se compartió información del producto.
+ACT-0168,LEAD-0168,,Andrea Torres,Email,2026-05-01,Se compartió información del producto.
+ACT-0169,LEAD-0169,,Carlos Mendoza,Email,2026-04-09,Se compartió información del producto.
+ACT-0170,LEAD-0170,,Andrea Torres,Email,2026-04-25,Se compartió información del producto.
+ACT-0171,LEAD-0171,,Diego Salazar,Seguimiento,2025-11-07,Pendiente confirmación del cliente.
+ACT-0172,LEAD-0172,,Carlos Mendoza,Email,2026-09-14,Se recibió una consulta comercial inicial.
+ACT-0173,LEAD-0173,,Diego Salazar,Seguimiento,2026-01-01,Pendiente confirmación del cliente.
+ACT-0174,LEAD-0174,,Lucía Vega,Llamada,2026-02-02,Se coordinó una próxima conversación.
+ACT-0175,LEAD-0175,,Andrea Torres,Llamada,2026-03-13,Cliente solicita información adicional.
+ACT-0176,LEAD-0176,,Andrea Torres,Email,2026-08-27,Se recibió una consulta comercial inicial.
+ACT-0177,LEAD-0177,,Carlos Mendoza,Reunión,2026-08-13,Se revisaron las necesidades del cliente.
+ACT-0178,LEAD-0178,,Diego Salazar,Reunión,2025-11-22,Se revisaron las necesidades del cliente.
+ACT-0179,LEAD-0179,,Lucía Vega,Email,2026-07-06,Se recibió una consulta comercial inicial.
+ACT-0180,LEAD-0180,,Diego Salazar,Llamada,2026-03-18,Se coordinó una próxima conversación.
+ACT-0181,LEAD-0181,,Andrea Torres,Llamada,2026-02-20,Cliente solicita información adicional.
+ACT-0182,LEAD-0182,,Andrea Torres,Email,2026-01-27,Se recibió una consulta comercial inicial.
+ACT-0183,LEAD-0183,,Lucía Vega,Email,2026-04-21,Se recibió una consulta comercial inicial.
+ACT-0184,LEAD-0184,,Carlos Mendoza,Llamada,2026-04-10,Cliente solicita información adicional.
+ACT-0185,LEAD-0185,,Carlos Mendoza,Email,2026-07-24,Se recibió una consulta comercial inicial.
+ACT-0186,LEAD-0186,,Diego Salazar,Seguimiento,2026-03-29,Cliente evaluando alternativas.
+ACT-0187,LEAD-0187,,Carlos Mendoza,Email,2026-02-13,Se recibió una consulta comercial inicial.
+ACT-0188,LEAD-0188,,Andrea Torres,Llamada,2026-01-15,Se coordinó una próxima conversación.
+ACT-0189,LEAD-0189,,Diego Salazar,Seguimiento,2026-05-31,Pendiente confirmación del cliente.
+ACT-0190,LEAD-0190,,Carlos Mendoza,Seguimiento,2026-05-04,Pendiente confirmación del cliente.
+ACT-0191,LEAD-0191,,Carlos Mendoza,Seguimiento,2026-05-10,Pendiente confirmación del cliente.
+ACT-0192,LEAD-0192,,Carlos Mendoza,Email,2026-08-26,Se compartió información del producto.
+ACT-0193,LEAD-0193,,Andrea Torres,Email,2026-05-02,Se recibió una consulta comercial inicial.
+ACT-0194,LEAD-0194,,Diego Salazar,Reunión,2026-07-25,Se revisaron las necesidades del cliente.
+ACT-0195,LEAD-0195,,Carlos Mendoza,Email,2026-06-14,Se recibió una consulta comercial inicial.
+ACT-0196,LEAD-0196,,Carlos Mendoza,Email,2026-06-06,Se recibió una consulta comercial inicial.
+ACT-0197,LEAD-0197,,Diego Salazar,Llamada,2025-11-09,Cliente solicita información adicional.
+ACT-0198,LEAD-0198,,Diego Salazar,Email,2026-02-22,Se recibió una consulta comercial inicial.
+ACT-0199,LEAD-0199,,Carlos Mendoza,Llamada,2026-05-14,Cliente solicita información adicional.
+ACT-0200,LEAD-0200,,Andrea Torres,Seguimiento,2025-10-18,Pendiente confirmación del cliente.
+ACT-0201,LEAD-0201,,Carlos Mendoza,Llamada,2026-06-13,Cliente solicita información adicional.
+ACT-0202,LEAD-0202,,Diego Salazar,Seguimiento,2026-02-10,Cliente evaluando alternativas.
+ACT-0203,LEAD-0203,,Lucía Vega,Email,2025-10-16,Se recibió una consulta comercial inicial.
+ACT-0204,LEAD-0204,,Diego Salazar,Reunión,2026-01-21,Se realizó reunión de presentación.
+ACT-0205,LEAD-0205,,Diego Salazar,Seguimiento,2026-08-22,Cliente evaluando alternativas.
+ACT-0206,LEAD-0206,,Andrea Torres,Email,2026-06-20,Se recibió una consulta comercial inicial.
+ACT-0207,LEAD-0207,,Andrea Torres,Email,2026-03-26,Se compartió información del producto.
+ACT-0208,LEAD-0208,,Diego Salazar,Seguimiento,2026-02-22,Cliente evaluando alternativas.
+ACT-0209,LEAD-0209,,Carlos Mendoza,Email,2026-08-24,Se compartió información del producto.
+ACT-0210,LEAD-0210,,Andrea Torres,Llamada,2025-12-02,Cliente solicita información adicional.
+ACT-0211,LEAD-0211,,Andrea Torres,Email,2025-12-21,Se recibió una consulta comercial inicial.
+ACT-0212,LEAD-0212,,Diego Salazar,Email,2026-05-12,Se compartió información del producto.
+ACT-0213,LEAD-0213,,Carlos Mendoza,Email,2026-07-26,Se recibió una consulta comercial inicial.
+ACT-0214,LEAD-0214,,Lucía Vega,Email,2026-05-08,Se compartió información del producto.
+ACT-0215,LEAD-0215,,Diego Salazar,Reunión,2026-03-16,Se revisaron las necesidades del cliente.
+ACT-0216,LEAD-0216,,Andrea Torres,Seguimiento,2026-08-29,Cliente evaluando alternativas.
+ACT-0217,LEAD-0217,,Lucía Vega,Email,2026-04-01,Se compartió información del producto.
+ACT-0218,LEAD-0218,,Carlos Mendoza,Reunión,2026-06-11,Se revisaron las necesidades del cliente.
+ACT-0219,LEAD-0219,,Lucía Vega,Llamada,2025-11-21,Se coordinó una próxima conversación.
+ACT-0220,LEAD-0220,,Carlos Mendoza,Llamada,2026-03-28,Se coordinó una próxima conversación.
+ACT-0221,LEAD-0221,,Lucía Vega,Seguimiento,2026-07-26,Pendiente confirmación del cliente.
+ACT-0222,LEAD-0222,,Diego Salazar,Seguimiento,2026-08-04,Pendiente confirmación del cliente.
+ACT-0223,LEAD-0223,,Andrea Torres,Reunión,2026-08-11,Se realizó reunión de presentación.
+ACT-0224,LEAD-0224,,Carlos Mendoza,Llamada,2026-08-21,Se coordinó una próxima conversación.
+ACT-0225,LEAD-0225,,Andrea Torres,Seguimiento,2026-02-22,Pendiente confirmación del cliente.
+ACT-0226,LEAD-0226,,Diego Salazar,Llamada,2025-11-07,Cliente solicita información adicional.
+ACT-0227,LEAD-0227,,Carlos Mendoza,Seguimiento,2026-05-21,Cliente evaluando alternativas.
+ACT-0228,LEAD-0228,,Lucía Vega,Llamada,2026-04-20,Cliente solicita información adicional.
+ACT-0229,LEAD-0229,,Carlos Mendoza,Email,2026-07-18,Se recibió una consulta comercial inicial.
+ACT-0230,LEAD-0230,,Andrea Torres,Reunión,2026-05-08,Se revisaron las necesidades del cliente.
+ACT-0231,LEAD-0231,,Carlos Mendoza,Email,2026-01-08,Se recibió una consulta comercial inicial.
+ACT-0232,LEAD-0232,,Carlos Mendoza,Email,2026-09-20,Se recibió una consulta comercial inicial.
+ACT-0233,LEAD-0233,,Diego Salazar,Email,2026-02-04,Se recibió una consulta comercial inicial.
+ACT-0234,LEAD-0234,,Carlos Mendoza,Reunión,2025-12-21,Se realizó reunión de presentación.
+ACT-0235,LEAD-0235,,Andrea Torres,Llamada,2026-09-07,Se coordinó una próxima conversación.
+ACT-0236,LEAD-0236,,Diego Salazar,Email,2026-08-02,Se recibió una consulta comercial inicial.
+ACT-0237,LEAD-0237,,Lucía Vega,Llamada,2025-11-30,Cliente solicita información adicional.
+ACT-0238,LEAD-0238,,Lucía Vega,Email,2025-11-22,Se recibió una consulta comercial inicial.
+ACT-0239,LEAD-0239,,Carlos Mendoza,Email,2025-12-18,Se recibió una consulta comercial inicial.
+ACT-0240,LEAD-0240,,Lucía Vega,Presentación,2026-04-10,Se presentaron las características del producto.
+ACT-0241,LEAD-0241,,Diego Salazar,Email,2026-07-28,Se recibió una consulta comercial inicial.
+ACT-0242,LEAD-0242,,Lucía Vega,Email,2026-07-15,Se compartió información del producto.
+ACT-0243,LEAD-0243,,Andrea Torres,Email,2026-07-26,Se recibió una consulta comercial inicial.
+ACT-0244,LEAD-0244,,Carlos Mendoza,Reunión,2026-03-11,Se realizó reunión de presentación.
+ACT-0245,LEAD-0245,,Lucía Vega,Email,2026-07-25,Se compartió información del producto.
+ACT-0246,LEAD-0246,,Andrea Torres,Email,2026-03-17,Se recibió una consulta comercial inicial.
+ACT-0247,LEAD-0247,,Diego Salazar,Email,2026-06-12,Se compartió información del producto.
+ACT-0248,LEAD-0248,,Andrea Torres,Email,2026-04-23,Se recibió una consulta comercial inicial.
+ACT-0249,LEAD-0249,,Diego Salazar,Email,2026-08-11,Se recibió una consulta comercial inicial.
+ACT-0250,LEAD-0250,,Carlos Mendoza,Llamada,2026-07-14,Se coordinó una próxima conversación.
+ACT-0251,LEAD-0020,OPP-0001,Andrea Torres,Email,2026-09-17,Se recibió una consulta comercial inicial.
+ACT-0252,LEAD-0122,OPP-0002,Andrea Torres,Email,2025-12-15,Se recibió una consulta comercial inicial.
+ACT-0253,LEAD-0220,OPP-0003,Carlos Mendoza,Seguimiento,2026-04-19,Cliente evaluando alternativas.
+ACT-0254,LEAD-0050,OPP-0004,Lucía Vega,Reunión,2025-12-08,Se revisaron las necesidades del cliente.
+ACT-0255,LEAD-0199,OPP-0005,Carlos Mendoza,Seguimiento,2026-06-28,Cliente evaluando alternativas.
+ACT-0256,LEAD-0036,OPP-0006,Diego Salazar,Reunión,2026-05-24,Se realizó reunión de presentación.
+ACT-0257,LEAD-0128,OPP-0007,Carlos Mendoza,Email,2026-04-21,Se recibió una consulta comercial inicial.
+ACT-0258,LEAD-0078,OPP-0008,Lucía Vega,Email,2026-02-15,Se recibió una consulta comercial inicial.
+ACT-0259,LEAD-0100,OPP-0009,Carlos Mendoza,Seguimiento,2026-05-20,Cliente evaluando alternativas.
+ACT-0260,LEAD-0138,OPP-0010,Andrea Torres,Email,2026-07-10,Se compartió información del producto.
+ACT-0261,LEAD-0151,OPP-0011,Lucía Vega,Llamada,2026-02-08,Se coordinó una próxima conversación.
+ACT-0262,LEAD-0188,OPP-0012,Andrea Torres,Reunión,2026-08-17,Se revisaron las necesidades del cliente.
+ACT-0263,LEAD-0202,OPP-0013,Diego Salazar,Llamada,2026-04-02,Se coordinó una próxima conversación.
+ACT-0264,LEAD-0155,OPP-0014,Lucía Vega,Llamada,2026-07-07,Se coordinó una próxima conversación.
+ACT-0265,LEAD-0165,OPP-0015,Lucía Vega,Llamada,2026-09-11,Cliente solicita información adicional.
+ACT-0266,LEAD-0152,OPP-0016,Andrea Torres,Email,2026-06-24,Se recibió una consulta comercial inicial.
+ACT-0267,LEAD-0017,OPP-0017,Diego Salazar,Reunión,2026-08-16,Se realizó reunión de presentación.
+ACT-0268,LEAD-0074,OPP-0018,Lucía Vega,Llamada,2025-12-29,Se coordinó una próxima conversación.
+ACT-0269,LEAD-0169,OPP-0019,Carlos Mendoza,Llamada,2026-04-19,Cliente solicita información adicional.
+ACT-0270,LEAD-0105,OPP-0020,Andrea Torres,Presentación,2026-08-28,Se presentaron las características del producto.
+ACT-0271,LEAD-0174,OPP-0021,Lucía Vega,Seguimiento,2026-06-21,Pendiente confirmación del cliente.
+ACT-0272,LEAD-0057,OPP-0022,Andrea Torres,Seguimiento,2026-05-22,Cliente evaluando alternativas.
+ACT-0273,LEAD-0016,OPP-0023,Andrea Torres,Email,2026-09-03,Se compartió información del producto.
+ACT-0274,LEAD-0059,OPP-0024,Andrea Torres,Email,2026-07-29,Se compartió información del producto.
+ACT-0275,LEAD-0021,OPP-0025,Diego Salazar,Email,2026-03-12,Se recibió una consulta comercial inicial.
+ACT-0276,LEAD-0201,OPP-0026,Carlos Mendoza,Email,2026-08-10,Se compartió información del producto.
+ACT-0277,LEAD-0026,OPP-0027,Andrea Torres,Presentación,2025-11-24,Se presentaron las características del producto.
+ACT-0278,LEAD-0111,OPP-0028,Carlos Mendoza,Email,2026-07-21,Se compartió información del producto.
+ACT-0279,LEAD-0146,OPP-0029,Lucía Vega,Propuesta enviada,2026-09-14,Se envió propuesta comercial.
+ACT-0280,LEAD-0145,OPP-0030,Lucía Vega,Llamada,2025-10-16,Cliente solicita información adicional.
+ACT-0281,LEAD-0197,OPP-0031,Diego Salazar,Reunión,2026-05-24,Se realizó reunión de presentación.
+ACT-0282,LEAD-0203,OPP-0032,Lucía Vega,Email,2025-11-27,Se recibió una consulta comercial inicial.
+ACT-0283,LEAD-0158,OPP-0033,Carlos Mendoza,Email,2026-06-25,Se compartió información del producto.
+ACT-0284,LEAD-0157,OPP-0034,Lucía Vega,Email,2026-06-06,Se compartió información del producto.
+ACT-0285,LEAD-0044,OPP-0035,Andrea Torres,Llamada,2026-07-05,Cliente solicita información adicional.
+ACT-0286,LEAD-0030,OPP-0036,Lucía Vega,Email,2026-06-08,Se compartió información del producto.
+ACT-0287,LEAD-0004,OPP-0037,Carlos Mendoza,Seguimiento,2026-05-06,Cliente evaluando alternativas.
+ACT-0288,LEAD-0032,OPP-0038,Carlos Mendoza,Llamada,2025-11-11,Cliente solicita información adicional.
+ACT-0289,LEAD-0167,OPP-0039,Diego Salazar,Seguimiento,2025-12-12,Cliente evaluando alternativas.
+ACT-0290,LEAD-0040,OPP-0040,Diego Salazar,Seguimiento,2026-06-05,Cliente evaluando alternativas.
+ACT-0291,LEAD-0118,OPP-0041,Diego Salazar,Seguimiento,2026-03-31,Pendiente confirmación del cliente.
+ACT-0292,LEAD-0086,OPP-0042,Diego Salazar,Seguimiento,2026-09-18,Pendiente confirmación del cliente.
+ACT-0293,LEAD-0125,OPP-0043,Lucía Vega,Email,2026-05-25,Se recibió una consulta comercial inicial.
+ACT-0294,LEAD-0206,OPP-0044,Andrea Torres,Email,2026-07-08,Se compartió información del producto.
+ACT-0295,LEAD-0063,OPP-0045,Diego Salazar,Seguimiento,2026-06-08,Cliente evaluando alternativas.
+ACT-0296,LEAD-0043,OPP-0046,Lucía Vega,Email,2026-07-13,Se recibió una consulta comercial inicial.
+ACT-0297,LEAD-0096,OPP-0047,Carlos Mendoza,Email,2026-07-24,Se recibió una consulta comercial inicial.
+ACT-0298,LEAD-0031,OPP-0048,Lucía Vega,Llamada,2026-07-14,Se coordinó una próxima conversación.
+ACT-0299,LEAD-0064,OPP-0049,Carlos Mendoza,Seguimiento,2026-01-14,Cliente evaluando alternativas.
+ACT-0300,LEAD-0211,OPP-0050,Andrea Torres,Seguimiento,2026-03-20,Cliente evaluando alternativas.
+ACT-0301,LEAD-0009,OPP-0051,Carlos Mendoza,Email,2025-12-11,Se compartió información del producto.
+ACT-0302,LEAD-0081,OPP-0052,Diego Salazar,Llamada,2026-04-14,Se coordinó una próxima conversación.
+ACT-0303,LEAD-0104,OPP-0053,Diego Salazar,Seguimiento,2026-07-06,Pendiente confirmación del cliente.
+ACT-0304,LEAD-0139,OPP-0054,Carlos Mendoza,Presentación,2026-03-24,Se presentaron las características del producto.
+ACT-0305,LEAD-0127,OPP-0055,Lucía Vega,Llamada,2026-07-23,Se coordinó una próxima conversación.
+ACT-0306,LEAD-0204,OPP-0056,Diego Salazar,Seguimiento,2026-02-28,Pendiente confirmación del cliente.
+ACT-0307,LEAD-0150,OPP-0057,Diego Salazar,Email,2026-07-18,Se compartió información del producto.
+ACT-0308,LEAD-0019,OPP-0058,Andrea Torres,Email,2026-02-09,Se recibió una consulta comercial inicial.
+ACT-0309,LEAD-0171,OPP-0059,Diego Salazar,Reunión,2025-12-02,Se revisaron las necesidades del cliente.
+ACT-0310,LEAD-0212,OPP-0060,Diego Salazar,Email,2026-08-04,Se compartió información del producto.
+ACT-0311,LEAD-0094,OPP-0061,Carlos Mendoza,Seguimiento,2026-02-06,Pendiente confirmación del cliente.
+ACT-0312,LEAD-0178,OPP-0062,Diego Salazar,Llamada,2026-03-23,Se coordinó una próxima conversación.
+ACT-0313,LEAD-0196,OPP-0063,Carlos Mendoza,Llamada,2026-07-25,Se coordinó una próxima conversación.
+ACT-0314,LEAD-0134,OPP-0064,Diego Salazar,Email,2026-04-24,Se compartió información del producto.
+ACT-0315,LEAD-0067,OPP-0065,Carlos Mendoza,Seguimiento,2026-09-01,Cliente evaluando alternativas.
+ACT-0316,LEAD-0239,OPP-0066,Carlos Mendoza,Reunión,2026-09-15,Se revisaron las necesidades del cliente.
+ACT-0317,LEAD-0045,OPP-0067,Diego Salazar,Email,2026-06-16,Se recibió una consulta comercial inicial.
+ACT-0318,LEAD-0114,OPP-0068,Carlos Mendoza,Llamada,2026-03-13,Se coordinó una próxima conversación.
+ACT-0319,LEAD-0182,OPP-0069,Andrea Torres,Seguimiento,2026-08-04,Pendiente confirmación del cliente.
+ACT-0320,LEAD-0099,OPP-0070,Lucía Vega,Llamada,2026-05-29,Cliente solicita información adicional.
+ACT-0321,LEAD-0015,OPP-0071,Lucía Vega,Llamada,2026-02-26,Se coordinó una próxima conversación.
+ACT-0322,LEAD-0115,OPP-0072,Andrea Torres,Email,2026-02-17,Se compartió información del producto.
+ACT-0323,LEAD-0085,OPP-0073,Andrea Torres,Email,2026-07-07,Se recibió una consulta comercial inicial.
+ACT-0324,LEAD-0121,OPP-0074,Diego Salazar,Llamada,2025-12-15,Cliente solicita información adicional.
+ACT-0325,LEAD-0214,OPP-0075,Lucía Vega,Reunión,2026-09-11,Se revisaron las necesidades del cliente.
+ACT-0326,LEAD-0190,OPP-0076,Carlos Mendoza,Llamada,2026-07-08,Se coordinó una próxima conversación.
+ACT-0327,LEAD-0186,OPP-0077,Diego Salazar,Email,2026-05-03,Se recibió una consulta comercial inicial.
+ACT-0328,LEAD-0062,OPP-0078,Diego Salazar,Email,2026-07-02,Se recibió una consulta comercial inicial.
+ACT-0329,LEAD-0002,OPP-0079,Carlos Mendoza,Llamada,2026-08-31,Se coordinó una próxima conversación.
+ACT-0330,LEAD-0005,OPP-0080,Andrea Torres,Seguimiento,2026-07-20,Cliente evaluando alternativas.
+ACT-0331,LEAD-0101,OPP-0081,Andrea Torres,Email,2026-04-29,Se recibió una consulta comercial inicial.
+ACT-0332,LEAD-0217,OPP-0082,Lucía Vega,Email,2026-07-28,Se compartió información del producto.
+ACT-0333,LEAD-0092,OPP-0083,Lucía Vega,Email,2026-08-30,Se compartió información del producto.
+ACT-0334,LEAD-0228,OPP-0084,Lucía Vega,Seguimiento,2026-09-05,Pendiente confirmación del cliente.
+ACT-0335,LEAD-0238,OPP-0085,Lucía Vega,Seguimiento,2026-07-10,Cliente evaluando alternativas.
+ACT-0336,LEAD-0047,OPP-0086,Andrea Torres,Email,2026-03-21,Se recibió una consulta comercial inicial.
+ACT-0337,LEAD-0131,OPP-0087,Andrea Torres,Llamada,2025-09-29,Cliente solicita información adicional.
+ACT-0338,LEAD-0195,OPP-0088,Carlos Mendoza,Email,2026-07-26,Se recibió una consulta comercial inicial.
+ACT-0339,LEAD-0135,OPP-0089,Diego Salazar,Reunión,2026-01-15,Se revisaron las necesidades del cliente.
+ACT-0340,LEAD-0065,OPP-0090,Andrea Torres,Llamada,2026-06-30,Se coordinó una próxima conversación.
+ACT-0341,LEAD-0234,OPP-0091,Carlos Mendoza,Email,2026-01-01,Se compartió información del producto.
+ACT-0342,LEAD-0191,OPP-0092,Carlos Mendoza,Llamada,2026-07-21,Se coordinó una próxima conversación.
+ACT-0343,LEAD-0173,OPP-0093,Diego Salazar,Email,2026-01-18,Se compartió información del producto.
+ACT-0344,LEAD-0102,OPP-0094,Diego Salazar,Seguimiento,2026-05-01,Cliente evaluando alternativas.
+ACT-0345,LEAD-0025,OPP-0095,Diego Salazar,Llamada,2026-01-19,Se coordinó una próxima conversación.
+ACT-0346,LEAD-0054,OPP-0096,Carlos Mendoza,Llamada,2026-09-07,Se coordinó una próxima conversación.
+ACT-0347,LEAD-0076,OPP-0097,Lucía Vega,Email,2026-05-18,Se recibió una consulta comercial inicial.
+ACT-0348,LEAD-0109,OPP-0098,Lucía Vega,Llamada,2026-04-07,Se coordinó una próxima conversación.
+ACT-0349,LEAD-0130,OPP-0099,Carlos Mendoza,Email,2026-03-27,Se compartió información del producto.
+ACT-0350,LEAD-0103,OPP-0100,Carlos Mendoza,Llamada,2026-02-21,Cliente solicita información adicional.
+ACT-0351,LEAD-0035,OPP-0101,Andrea Torres,Llamada,2026-08-02,Cliente solicita información adicional.
+ACT-0352,LEAD-0069,OPP-0102,Lucía Vega,Llamada,2025-11-24,Se coordinó una próxima conversación.
+ACT-0353,LEAD-0137,OPP-0103,Lucía Vega,Llamada,2026-04-24,Cliente solicita información adicional.
+ACT-0354,LEAD-0107,OPP-0104,Carlos Mendoza,Llamada,2026-03-23,Cliente solicita información adicional.
+ACT-0355,LEAD-0164,OPP-0105,Carlos Mendoza,Email,2025-12-13,Se compartió información del producto.
+ACT-0356,LEAD-0014,OPP-0106,Diego Salazar,Llamada,2026-05-21,Se coordinó una próxima conversación.
+ACT-0357,LEAD-0219,OPP-0107,Lucía Vega,Propuesta enviada,2026-01-27,Se envió propuesta comercial.
+ACT-0358,LEAD-0147,OPP-0108,Lucía Vega,Email,2026-01-20,Se recibió una consulta comercial inicial.
+ACT-0359,LEAD-0098,OPP-0109,Lucía Vega,Llamada,2026-06-21,Cliente solicita información adicional.
+ACT-0360,LEAD-0022,OPP-0110,Diego Salazar,Email,2026-06-30,Se recibió una consulta comercial inicial.
+ACT-0361,LEAD-0207,OPP-0111,Andrea Torres,Seguimiento,2026-06-18,Cliente evaluando alternativas.
+ACT-0362,LEAD-0200,OPP-0112,Andrea Torres,Seguimiento,2025-12-20,Pendiente confirmación del cliente.
+ACT-0363,LEAD-0010,OPP-0113,Diego Salazar,Email,2026-06-14,Se recibió una consulta comercial inicial.
+ACT-0364,LEAD-0117,OPP-0114,Carlos Mendoza,Reunión,2025-11-15,Se realizó reunión de presentación.
+ACT-0365,LEAD-0226,OPP-0115,Diego Salazar,Email,2025-11-29,Se recibió una consulta comercial inicial.
+ACT-0366,LEAD-0225,OPP-0116,Andrea Torres,Email,2026-08-18,Se compartió información del producto.
+ACT-0367,LEAD-0132,OPP-0117,Lucía Vega,Presentación,2026-07-27,Se presentaron las características del producto.
+ACT-0368,LEAD-0237,OPP-0118,Lucía Vega,Reunión,2026-09-10,Se realizó reunión de presentación.
+ACT-0369,LEAD-0208,OPP-0119,Diego Salazar,Llamada,2026-08-20,Se coordinó una próxima conversación.
+ACT-0370,LEAD-0048,OPP-0120,Carlos Mendoza,Llamada,2026-03-26,Cliente solicita información adicional.
+ACT-0371,LEAD-0132,OPP-0117,Lucía Vega,Seguimiento,2026-09-01,Pendiente confirmación del cliente.
+ACT-0372,LEAD-0146,OPP-0029,Lucía Vega,Llamada,2026-06-24,Se coordinó una próxima conversación.
+ACT-0373,LEAD-0104,OPP-0053,Diego Salazar,Reunión,2026-07-20,Se realizó reunión de presentación.
+ACT-0374,LEAD-0122,OPP-0002,Andrea Torres,Email,2025-12-28,Se compartió información del producto.
+ACT-0375,LEAD-0054,OPP-0096,Carlos Mendoza,Email,2026-08-27,Se recibió una consulta comercial inicial.
+ACT-0376,LEAD-0015,OPP-0071,Lucía Vega,Email,2026-02-01,Se compartió información del producto.
+ACT-0377,LEAD-0031,OPP-0048,Lucía Vega,Email,2026-08-10,Se compartió información del producto.
+ACT-0378,LEAD-0145,OPP-0030,Lucía Vega,Seguimiento,2025-11-23,Pendiente confirmación del cliente.
+ACT-0379,LEAD-0132,OPP-0117,Lucía Vega,Llamada,2026-07-26,Se coordinó una próxima conversación.
+ACT-0380,LEAD-0099,OPP-0070,Lucía Vega,Llamada,2026-04-25,Se coordinó una próxima conversación.
+ACT-0381,LEAD-0092,OPP-0083,Lucía Vega,Email,2026-08-23,Se compartió información del producto.
+ACT-0382,LEAD-0092,OPP-0083,Lucía Vega,Reunión,2026-04-20,Se revisaron las necesidades del cliente.
+ACT-0383,LEAD-0169,OPP-0019,Carlos Mendoza,Seguimiento,2026-04-28,Cliente evaluando alternativas.
+ACT-0384,LEAD-0173,OPP-0093,Diego Salazar,Reunión,2026-02-19,Se revisaron las necesidades del cliente.
+ACT-0385,LEAD-0145,OPP-0030,Lucía Vega,Llamada,2025-11-28,Se coordinó una próxima conversación.
+ACT-0386,LEAD-0212,OPP-0060,Diego Salazar,Seguimiento,2026-06-11,Cliente evaluando alternativas.
+ACT-0387,LEAD-0092,OPP-0083,Lucía Vega,Llamada,2026-07-07,Cliente solicita información adicional.
+ACT-0388,LEAD-0118,OPP-0041,Diego Salazar,Llamada,2026-03-14,Cliente solicita información adicional.
+ACT-0389,LEAD-0132,OPP-0117,Lucía Vega,Seguimiento,2026-07-25,Pendiente confirmación del cliente.
+ACT-0390,LEAD-0191,OPP-0092,Carlos Mendoza,Seguimiento,2026-06-05,Pendiente confirmación del cliente.
+ACT-0391,LEAD-0078,OPP-0008,Lucía Vega,Email,2025-12-15,Se recibió una consulta comercial inicial.
+ACT-0392,LEAD-0125,OPP-0043,Lucía Vega,Email,2026-06-18,Se compartió información del producto.
+ACT-0393,LEAD-0169,OPP-0019,Carlos Mendoza,Email,2026-05-20,Se compartió información del producto.
+ACT-0394,LEAD-0067,OPP-0065,Carlos Mendoza,Llamada,2026-04-11,Cliente solicita información adicional.
+ACT-0395,LEAD-0202,OPP-0013,Diego Salazar,Llamada,2026-04-10,Se coordinó una próxima conversación.
+ACT-0396,LEAD-0171,OPP-0059,Diego Salazar,Presentación,2025-11-16,Se presentaron las características del producto.
+ACT-0397,LEAD-0167,OPP-0039,Diego Salazar,Seguimiento,2025-10-30,Cliente evaluando alternativas.
+ACT-0398,LEAD-0114,OPP-0068,Carlos Mendoza,Email,2026-06-13,Se compartió información del producto.
+ACT-0399,LEAD-0062,OPP-0078,Diego Salazar,Seguimiento,2026-06-18,Cliente evaluando alternativas.
+ACT-0400,LEAD-0086,OPP-0042,Diego Salazar,Email,2026-09-17,Se recibió una consulta comercial inicial.

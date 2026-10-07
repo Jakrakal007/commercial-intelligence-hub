@@ -1,0 +1,121 @@
+opportunity_id,lead_id,company_name,assigned_executive,product,stage,potential_amount,probability,created_date,expected_close_date,last_contact_date,closed_date,result
+OPP-0001,LEAD-0020,Logística Brisa del Norte SAC,Andrea Torres,Fondo Balanceado,Evaluación,55000,0.17,2025-12-05,2026-01-05,2026-09-17,,Open
+OPP-0002,LEAD-0122,Agroexportadora Altavista del Norte SAC,Andrea Torres,Gestión Patrimonial,Cerrado,107000,0,2025-11-02,2025-11-27,2025-12-28,2026-02-07,Lost
+OPP-0003,LEAD-0220,Servicios Horizonte del Valle SAC,Carlos Mendoza,Fondo Crecimiento,Cerrado,46000,1,2026-04-11,2026-05-21,2026-04-19,2026-05-04,Won
+OPP-0004,LEAD-0050,Turismo Andina Central SAC,Lucía Vega,Fondo Balanceado,Cerrado,153000,0,2025-11-14,2025-12-14,2025-12-08,2026-01-10,Lost
+OPP-0005,LEAD-0199,Tecnología Nova del Pacífico SAC,Carlos Mendoza,Inversión Corporativa,Cerrado,441000,0,2026-05-16,2026-09-13,2026-06-28,2026-07-25,Lost
+OPP-0006,LEAD-0036,Comercial Brisa Central SAC,Diego Salazar,Fondo Balanceado,Cerrado,379000,1,2026-04-17,2026-06-16,2026-05-24,2026-05-24,Won
+OPP-0007,LEAD-0128,Minera Horizonte del Sol SAC,Carlos Mendoza,Inversión Corporativa,Evaluación,339000,0.29,2025-12-10,2026-03-14,2026-04-21,,Open
+OPP-0008,LEAD-0078,Constructora Cumbre Integral SAC,Lucía Vega,Fondo Conservador,Propuesta,83000,0.46,2025-10-26,2025-11-21,2026-02-15,,Open
+OPP-0009,LEAD-0100,Tecnología Cumbre Regional SAC,Carlos Mendoza,Fondo Balanceado,Cerrado,109000,1,2026-03-29,2026-05-14,2026-05-20,2026-06-19,Won
+OPP-0010,LEAD-0138,Comercial Horizonte Perú SAC,Andrea Torres,Inversión Corporativa,Reunión,271000,0.36,2026-07-09,2026-09-23,2026-07-10,,Open
+OPP-0011,LEAD-0151,Comercial Horizonte Regional SAC,Lucía Vega,Gestión Patrimonial,Cerrado,99000,1,2026-02-03,2026-04-08,2026-02-08,2026-03-31,Won
+OPP-0012,LEAD-0188,Tecnología Brisa del Valle SAC,Andrea Torres,Fondo Conservador,Negociación,64000,0.73,2026-01-19,2026-02-10,2026-08-17,,Open
+OPP-0013,LEAD-0202,Industrias Altavista del Sol SAC,Diego Salazar,Inversión Corporativa,Negociación,396000,0.7,2026-02-16,2026-03-15,2026-04-10,,Open
+OPP-0014,LEAD-0155,Servicios Solaris del Norte SAC,Lucía Vega,Fondo Crecimiento,Negociación,134000,0.66,2026-06-10,2026-09-30,2026-07-07,,Open
+OPP-0015,LEAD-0165,Tecnología Horizonte Central SAC,Lucía Vega,Fondo Crecimiento,Negociación,80000,0.7,2026-03-21,2026-04-27,2026-09-11,,Open
+OPP-0016,LEAD-0152,Agroexportadora Brisa del Pacífico SAC,Andrea Torres,Fondo Crecimiento,Negociación,116000,0.65,2026-05-04,2026-08-17,2026-06-24,,Open
+OPP-0017,LEAD-0017,Servicios Aurora Perú SAC,Diego Salazar,Fondo Balanceado,Negociación,56000,0.8,2026-07-14,2026-10-06,2026-08-16,,Open
+OPP-0018,LEAD-0074,Constructora Pacífico del Sur SAC,Lucía Vega,Fondo Conservador,Cerrado,283000,0,2025-11-28,2026-01-10,2025-12-29,2026-02-28,Lost
+OPP-0019,LEAD-0169,Agroexportadora Altavista Perú SAC,Carlos Mendoza,Fondo Balanceado,Cerrado,438000,1,2026-04-13,2026-08-09,2026-05-20,2026-05-23,Won
+OPP-0020,LEAD-0105,Comercial Andina del Pacífico SAC,Andrea Torres,Fondo Balanceado,Negociación,132000,0.66,2025-12-19,2026-01-05,2026-08-28,,Open
+OPP-0021,LEAD-0174,Constructora Nova del Valle SAC,Lucía Vega,Fondo Crecimiento,Negociación,127000,0.76,2026-02-03,2026-02-27,2026-06-21,,Open
+OPP-0022,LEAD-0057,Comercial Cumbre Regional SAC,Andrea Torres,Fondo Crecimiento,Reunión,102000,0.35,2025-11-13,2025-12-15,2026-05-22,,Open
+OPP-0023,LEAD-0016,Servicios Andina del Valle SAC,Andrea Torres,Fondo Crecimiento,Reunión,108000,0.35,2025-11-13,2025-12-20,2026-09-03,,Open
+OPP-0024,LEAD-0059,Logística Pacífico del Valle SAC,Andrea Torres,Inversión Corporativa,Propuesta,159000,0.52,2026-01-15,2026-04-25,2026-07-29,,Open
+OPP-0025,LEAD-0021,Logística Solaris del Valle SAC,Diego Salazar,Gestión Patrimonial,Evaluación,121000,0.15,2026-01-06,2026-04-24,2026-03-12,,Open
+OPP-0026,LEAD-0201,Servicios Brisa del Valle SAC,Carlos Mendoza,Inversión Corporativa,Cerrado,81000,0,2026-06-17,2026-07-06,2026-08-10,2026-09-12,Lost
+OPP-0027,LEAD-0026,Agroexportadora Nova del Sur SAC,Andrea Torres,Fondo Crecimiento,Cerrado,172000,0,2025-11-22,2026-02-26,2025-11-24,2026-01-04,Lost
+OPP-0028,LEAD-0111,Comercial Andina del Sur SAC,Carlos Mendoza,Fondo Conservador,Evaluación,75000,0.21,2026-06-29,2026-08-23,2026-07-21,,Open
+OPP-0029,LEAD-0146,Logística Brisa del Sol SAC,Lucía Vega,Fondo Crecimiento,Propuesta,135000,0.55,2026-03-20,2026-05-31,2026-09-14,,Open
+OPP-0030,LEAD-0145,Constructora Nova Perú SAC,Lucía Vega,Fondo Balanceado,Cerrado,45000,0,2025-10-16,2026-02-08,2025-11-28,2025-12-02,Lost
+OPP-0031,LEAD-0197,Constructora Pacífico Global SAC,Diego Salazar,Fondo Crecimiento,Reunión,338000,0.3,2025-11-11,2026-01-17,2026-05-24,,Open
+OPP-0032,LEAD-0203,Tecnología Brisa del Sol SAC,Lucía Vega,Gestión Patrimonial,Cerrado,79000,1,2025-10-25,2026-02-17,2025-11-27,2026-01-09,Won
+OPP-0033,LEAD-0158,Agroexportadora Cumbre Global SAC,Carlos Mendoza,Fondo Crecimiento,Cerrado,58000,1,2026-06-18,2026-10-13,2026-06-25,2026-07-12,Won
+OPP-0034,LEAD-0157,Minera Nova Perú SAC,Lucía Vega,Fondo Balanceado,Evaluación,166000,0.15,2025-12-13,2026-02-14,2026-06-06,,Open
+OPP-0035,LEAD-0044,Logística Cumbre del Norte SAC,Andrea Torres,Fondo Crecimiento,Evaluación,151000,0.29,2026-03-19,2026-06-20,2026-07-05,,Open
+OPP-0036,LEAD-0030,Constructora Solaris Integral SAC,Lucía Vega,Fondo Crecimiento,Propuesta,110000,0.58,2025-11-30,2026-01-04,2026-06-08,,Open
+OPP-0037,LEAD-0004,Minera Brisa del Sur SAC,Carlos Mendoza,Fondo Conservador,Propuesta,61000,0.62,2025-12-14,2026-01-31,2026-05-06,,Open
+OPP-0038,LEAD-0032,Industrias Cumbre del Norte SAC,Carlos Mendoza,Fondo Balanceado,Cerrado,41000,1,2025-10-26,2026-01-19,2025-11-11,2026-01-22,Won
+OPP-0039,LEAD-0167,Constructora Andina del Valle SAC,Diego Salazar,Fondo Conservador,Cerrado,84000,0,2025-10-27,2026-02-24,2025-12-12,2025-12-18,Lost
+OPP-0040,LEAD-0040,Agroexportadora Andina del Sur SAC,Diego Salazar,Fondo Crecimiento,Evaluación,50000,0.3,2026-01-14,2026-03-07,2026-06-05,,Open
+OPP-0041,LEAD-0118,Servicios Aurora del Pacífico SAC,Diego Salazar,Fondo Balanceado,Cerrado,129000,0,2026-03-06,2026-05-22,2026-03-31,2026-05-20,Lost
+OPP-0042,LEAD-0086,Constructora Aurora del Norte SAC,Diego Salazar,Fondo Balanceado,Reunión,80000,0.37,2026-06-16,2026-08-17,2026-09-18,,Open
+OPP-0043,LEAD-0125,Comercial Aurora del Norte SAC,Lucía Vega,Fondo Balanceado,Cerrado,88000,1,2026-05-25,2026-07-13,2026-06-18,2026-07-07,Won
+OPP-0044,LEAD-0206,Comercial Prisma del Sol SAC,Andrea Torres,Fondo Conservador,Evaluación,112000,0.21,2026-06-21,2026-10-17,2026-07-08,,Open
+OPP-0045,LEAD-0063,Comercial Solaris Global SAC,Diego Salazar,Fondo Balanceado,Evaluación,65000,0.22,2026-03-24,2026-07-21,2026-06-08,,Open
+OPP-0046,LEAD-0043,Agroexportadora Altavista Regional SAC,Lucía Vega,Fondo Balanceado,Reunión,144000,0.32,2026-02-18,2026-05-04,2026-07-13,,Open
+OPP-0047,LEAD-0096,Tecnología Horizonte Integral SAC,Carlos Mendoza,Fondo Conservador,Reunión,118000,0.41,2026-07-04,2026-10-29,2026-07-24,,Open
+OPP-0048,LEAD-0031,Industrias Pacífico Global SAC,Lucía Vega,Fondo Crecimiento,Cerrado,53000,1,2026-06-12,2026-07-19,2026-08-10,2026-08-23,Won
+OPP-0049,LEAD-0064,Constructora Solaris del Sol SAC,Carlos Mendoza,Inversión Corporativa,Cerrado,54000,1,2026-01-02,2026-01-27,2026-01-14,2026-03-12,Won
+OPP-0050,LEAD-0211,Servicios Brisa Regional SAC,Andrea Torres,Fondo Balanceado,Negociación,107000,0.73,2026-01-13,2026-03-09,2026-03-20,,Open
+OPP-0051,LEAD-0009,Industrias Andina del Sol SAC,Carlos Mendoza,Inversión Corporativa,Cerrado,331000,0,2025-11-09,2026-02-02,2025-12-11,2026-01-13,Lost
+OPP-0052,LEAD-0081,Industrias Horizonte del Valle SAC,Diego Salazar,Gestión Patrimonial,Cerrado,156000,0,2026-04-11,2026-08-04,2026-04-14,2026-04-27,Lost
+OPP-0053,LEAD-0104,Comercial Cumbre Perú SAC,Diego Salazar,Fondo Crecimiento,Reunión,83000,0.29,2026-05-17,2026-08-12,2026-07-20,,Open
+OPP-0054,LEAD-0139,Agroexportadora Horizonte Integral SAC,Carlos Mendoza,Fondo Crecimiento,Evaluación,50000,0.13,2026-01-11,2026-05-06,2026-03-24,,Open
+OPP-0055,LEAD-0127,Servicios Horizonte Integral SAC,Lucía Vega,Gestión Patrimonial,Evaluación,147000,0.3,2025-11-04,2026-01-20,2026-07-23,,Open
+OPP-0056,LEAD-0204,Tecnología Altavista del Pacífico SAC,Diego Salazar,Fondo Crecimiento,Cerrado,316000,1,2026-01-31,2026-05-05,2026-02-28,2026-03-05,Won
+OPP-0057,LEAD-0150,Turismo Prisma del Norte SAC,Diego Salazar,Fondo Crecimiento,Negociación,81000,0.72,2026-06-12,2026-07-03,2026-07-18,,Open
+OPP-0058,LEAD-0019,Comercial Solaris del Pacífico SAC,Andrea Torres,Fondo Balanceado,Reunión,79000,0.34,2025-11-27,2026-01-20,2026-02-09,,Open
+OPP-0059,LEAD-0171,Minera Solaris Perú SAC,Diego Salazar,Gestión Patrimonial,Cerrado,114000,1,2025-11-11,2025-12-13,2025-12-02,2025-12-25,Won
+OPP-0060,LEAD-0212,Minera Aurora del Sol SAC,Diego Salazar,Inversión Corporativa,Evaluación,410000,0.23,2026-05-23,2026-08-23,2026-08-04,,Open
+OPP-0061,LEAD-0094,Tecnología Pacífico del Pacífico SAC,Carlos Mendoza,Fondo Conservador,Cerrado,155000,1,2026-01-28,2026-05-17,2026-02-06,2026-04-05,Won
+OPP-0062,LEAD-0178,Constructora Nova del Sur SAC,Diego Salazar,Gestión Patrimonial,Reunión,135000,0.3,2025-11-27,2025-12-20,2026-03-23,,Open
+OPP-0063,LEAD-0196,Tecnología Nova Regional SAC,Carlos Mendoza,Fondo Crecimiento,Cerrado,128000,0,2026-06-18,2026-09-13,2026-07-25,2026-09-08,Lost
+OPP-0064,LEAD-0134,Industrias Pacífico Central SAC,Diego Salazar,Fondo Conservador,Evaluación,63000,0.11,2025-10-04,2025-12-16,2026-04-24,,Open
+OPP-0065,LEAD-0067,Industrias Prisma Integral SAC,Carlos Mendoza,Inversión Corporativa,Propuesta,70000,0.61,2026-02-14,2026-04-20,2026-09-01,,Open
+OPP-0066,LEAD-0239,Comercial Brisa del Sol SAC,Carlos Mendoza,Inversión Corporativa,Reunión,67000,0.39,2025-12-23,2026-01-29,2026-09-15,,Open
+OPP-0067,LEAD-0045,Tecnología Aurora Regional SAC,Diego Salazar,Fondo Crecimiento,Negociación,58000,0.67,2026-05-24,2026-07-14,2026-06-16,,Open
+OPP-0068,LEAD-0114,Comercial Andina Regional SAC,Carlos Mendoza,Fondo Balanceado,Negociación,100000,0.72,2025-11-13,2026-02-18,2026-06-13,,Open
+OPP-0069,LEAD-0182,Constructora Brisa del Sur SAC,Andrea Torres,Fondo Crecimiento,Evaluación,82000,0.1,2026-02-06,2026-04-22,2026-08-04,,Open
+OPP-0070,LEAD-0099,Agroexportadora Andina Integral SAC,Lucía Vega,Fondo Crecimiento,Evaluación,29000,0.19,2026-02-17,2026-06-03,2026-05-29,,Open
+OPP-0071,LEAD-0015,Agroexportadora Altavista del Pacífico SAC,Lucía Vega,Fondo Crecimiento,Cerrado,79000,0,2025-12-29,2026-03-12,2026-02-26,2026-02-26,Lost
+OPP-0072,LEAD-0115,Minera Andina del Norte SAC,Andrea Torres,Fondo Conservador,Cerrado,94000,0,2026-02-14,2026-04-20,2026-02-17,2026-05-19,Lost
+OPP-0073,LEAD-0085,Tecnología Prisma Integral SAC,Andrea Torres,Fondo Conservador,Negociación,111000,0.76,2026-06-27,2026-09-21,2026-07-07,,Open
+OPP-0074,LEAD-0121,Servicios Andina del Pacífico SAC,Diego Salazar,Fondo Crecimiento,Cerrado,114000,1,2025-11-26,2025-12-19,2025-12-15,2026-02-10,Won
+OPP-0075,LEAD-0214,Tecnología Prisma Global SAC,Lucía Vega,Inversión Corporativa,Evaluación,143000,0.3,2026-05-21,2026-07-13,2026-09-11,,Open
+OPP-0076,LEAD-0190,Servicios Brisa del Sol SAC,Carlos Mendoza,Fondo Conservador,Propuesta,152000,0.64,2026-05-06,2026-07-11,2026-07-08,,Open
+OPP-0077,LEAD-0186,Logística Pacífico Integral SAC,Diego Salazar,Fondo Balanceado,Reunión,35000,0.34,2026-04-01,2026-05-19,2026-05-03,,Open
+OPP-0078,LEAD-0062,Turismo Altavista Central SAC,Diego Salazar,Fondo Balanceado,Negociación,101000,0.71,2026-06-11,2026-08-08,2026-07-02,,Open
+OPP-0079,LEAD-0002,Servicios Brisa Integral SAC,Carlos Mendoza,Fondo Crecimiento,Reunión,108000,0.36,2026-07-17,2026-10-04,2026-08-31,,Open
+OPP-0080,LEAD-0005,Agroexportadora Cumbre Integral SAC,Andrea Torres,Gestión Patrimonial,Evaluación,146000,0.13,2026-05-22,2026-08-05,2026-07-20,,Open
+OPP-0081,LEAD-0101,Servicios Prisma Global SAC,Andrea Torres,Fondo Crecimiento,Negociación,98000,0.75,2026-03-26,2026-07-02,2026-04-29,,Open
+OPP-0082,LEAD-0217,Constructora Brisa Integral SAC,Lucía Vega,Fondo Conservador,Reunión,145000,0.35,2026-04-03,2026-06-04,2026-07-28,,Open
+OPP-0083,LEAD-0092,Servicios Brisa del Norte SAC,Lucía Vega,Fondo Crecimiento,Evaluación,53000,0.3,2026-04-16,2026-07-14,2026-08-30,,Open
+OPP-0084,LEAD-0228,Logística Andina del Sur SAC,Lucía Vega,Inversión Corporativa,Reunión,428000,0.37,2026-05-05,2026-07-26,2026-09-05,,Open
+OPP-0085,LEAD-0238,Tecnología Pacífico del Sur SAC,Lucía Vega,Fondo Balanceado,Negociación,57000,0.75,2025-11-26,2026-02-01,2026-07-10,,Open
+OPP-0086,LEAD-0047,Agroexportadora Aurora Integral SAC,Andrea Torres,Gestión Patrimonial,Negociación,56000,0.7,2026-01-14,2026-05-08,2026-03-21,,Open
+OPP-0087,LEAD-0131,Minera Aurora Global SAC,Andrea Torres,Fondo Balanceado,Propuesta,60000,0.45,2025-09-29,2025-12-10,2025-09-29,,Open
+OPP-0088,LEAD-0195,Tecnología Prisma del Norte SAC,Carlos Mendoza,Fondo Conservador,Cerrado,100000,1,2026-06-26,2026-09-11,2026-07-26,2026-07-31,Won
+OPP-0089,LEAD-0135,Comercial Prisma Central SAC,Diego Salazar,Gestión Patrimonial,Cerrado,105000,0,2025-11-14,2026-01-22,2026-01-15,2026-02-18,Lost
+OPP-0090,LEAD-0065,Tecnología Solaris del Norte SAC,Andrea Torres,Fondo Balanceado,Reunión,26000,0.36,2026-03-12,2026-03-28,2026-06-30,,Open
+OPP-0091,LEAD-0234,Industrias Andina Central SAC,Carlos Mendoza,Gestión Patrimonial,Evaluación,33000,0.17,2025-12-29,2026-02-10,2026-01-01,,Open
+OPP-0092,LEAD-0191,Tecnología Aurora Global SAC,Carlos Mendoza,Gestión Patrimonial,Cerrado,50000,1,2026-05-11,2026-08-09,2026-07-21,2026-07-29,Won
+OPP-0093,LEAD-0173,Constructora Solaris Regional SAC,Diego Salazar,Fondo Conservador,Cerrado,72000,1,2026-01-08,2026-03-22,2026-02-19,2026-03-01,Won
+OPP-0094,LEAD-0102,Logística Horizonte Central SAC,Diego Salazar,Fondo Balanceado,Propuesta,85000,0.49,2026-03-06,2026-05-03,2026-05-01,,Open
+OPP-0095,LEAD-0025,Logística Andina del Valle SAC,Diego Salazar,Fondo Balanceado,Cerrado,165000,0,2025-12-20,2026-01-06,2026-01-19,2026-02-24,Lost
+OPP-0096,LEAD-0054,Agroexportadora Andina Global SAC,Carlos Mendoza,Fondo Conservador,Evaluación,64000,0.26,2026-04-24,2026-05-30,2026-09-07,,Open
+OPP-0097,LEAD-0076,Logística Horizonte Integral SAC,Lucía Vega,Fondo Balanceado,Negociación,38000,0.73,2026-05-01,2026-08-22,2026-05-18,,Open
+OPP-0098,LEAD-0109,Turismo Altavista del Pacífico SAC,Lucía Vega,Fondo Crecimiento,Evaluación,41000,0.1,2026-03-10,2026-03-31,2026-04-07,,Open
+OPP-0099,LEAD-0130,Constructora Nova Regional SAC,Carlos Mendoza,Fondo Conservador,Evaluación,53000,0.14,2026-01-17,2026-02-27,2026-03-27,,Open
+OPP-0100,LEAD-0103,Servicios Nova Perú SAC,Carlos Mendoza,Fondo Crecimiento,Evaluación,336000,0.26,2026-02-17,2026-04-07,2026-02-21,,Open
+OPP-0101,LEAD-0035,Industrias Solaris del Sur SAC,Andrea Torres,Fondo Crecimiento,Cerrado,137000,0,2026-07-16,2026-10-04,2026-08-02,2026-08-06,Lost
+OPP-0102,LEAD-0069,Comercial Prisma Perú SAC,Lucía Vega,Fondo Crecimiento,Cerrado,129000,1,2025-11-11,2025-12-21,2025-11-24,2026-01-28,Won
+OPP-0103,LEAD-0137,Servicios Nova Regional SAC,Lucía Vega,Fondo Conservador,Cerrado,94000,1,2026-03-27,2026-05-26,2026-04-24,2026-05-06,Won
+OPP-0104,LEAD-0107,Comercial Pacífico del Norte SAC,Carlos Mendoza,Fondo Balanceado,Negociación,97000,0.8,2026-02-13,2026-04-11,2026-03-23,,Open
+OPP-0105,LEAD-0164,Agroexportadora Nova del Valle SAC,Carlos Mendoza,Fondo Conservador,Cerrado,153000,1,2025-10-31,2026-02-08,2025-12-13,2026-01-27,Won
+OPP-0106,LEAD-0014,Comercial Brisa Regional SAC,Diego Salazar,Fondo Conservador,Cerrado,93000,0,2026-04-26,2026-06-12,2026-05-21,2026-05-23,Lost
+OPP-0107,LEAD-0219,Constructora Andina del Sol SAC,Lucía Vega,Fondo Conservador,Cerrado,72000,1,2025-11-29,2025-12-20,2026-01-27,2026-02-11,Won
+OPP-0108,LEAD-0147,Turismo Pacífico Integral SAC,Lucía Vega,Gestión Patrimonial,Cerrado,141000,1,2025-11-28,2026-03-25,2026-01-20,2026-01-28,Won
+OPP-0109,LEAD-0098,Turismo Horizonte del Valle SAC,Lucía Vega,Fondo Balanceado,Propuesta,49000,0.46,2026-03-13,2026-03-29,2026-06-21,,Open
+OPP-0110,LEAD-0022,Servicios Prisma Integral SAC,Diego Salazar,Fondo Crecimiento,Reunión,77000,0.44,2026-05-15,2026-07-03,2026-06-30,,Open
+OPP-0111,LEAD-0207,Agroexportadora Horizonte del Pacífico SAC,Andrea Torres,Fondo Conservador,Reunión,61000,0.39,2026-04-15,2026-06-03,2026-06-18,,Open
+OPP-0112,LEAD-0200,Servicios Aurora del Sur SAC,Andrea Torres,Fondo Crecimiento,Negociación,84000,0.7,2025-10-19,2025-11-17,2025-12-20,,Open
+OPP-0113,LEAD-0010,Tecnología Solaris del Valle SAC,Diego Salazar,Fondo Crecimiento,Evaluación,448000,0.23,2025-10-31,2026-01-29,2026-06-14,,Open
+OPP-0114,LEAD-0117,Servicios Pacífico del Sol SAC,Carlos Mendoza,Gestión Patrimonial,Cerrado,60000,1,2025-11-11,2026-03-05,2025-11-15,2026-01-13,Won
+OPP-0115,LEAD-0226,Logística Altavista del Norte SAC,Diego Salazar,Fondo Crecimiento,Cerrado,147000,1,2025-11-23,2026-02-07,2025-11-29,2025-12-24,Won
+OPP-0116,LEAD-0225,Agroexportadora Brisa del Sol SAC,Andrea Torres,Fondo Conservador,Evaluación,40000,0.2,2026-02-25,2026-03-13,2026-08-18,,Open
+OPP-0117,LEAD-0132,Agroexportadora Solaris del Pacífico SAC,Lucía Vega,Gestión Patrimonial,Cerrado,123000,1,2026-07-17,2026-10-12,2026-09-01,2026-09-16,Won
+OPP-0118,LEAD-0237,Constructora Nova del Norte SAC,Lucía Vega,Inversión Corporativa,Reunión,76000,0.44,2025-12-03,2025-12-30,2026-09-10,,Open
+OPP-0119,LEAD-0208,Servicios Horizonte Perú SAC,Diego Salazar,Fondo Crecimiento,Propuesta,76000,0.57,2026-03-10,2026-04-13,2026-08-20,,Open
+OPP-0120,LEAD-0048,Constructora Aurora Global SAC,Carlos Mendoza,Gestión Patrimonial,Negociación,30000,0.81,2026-03-13,2026-05-27,2026-03-26,,Open

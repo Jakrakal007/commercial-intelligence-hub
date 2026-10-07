@@ -1,0 +1,251 @@
+lead_id,company_name,contact_name,sector,city,lead_source,assigned_executive,created_date,last_contact_date,status
+LEAD-0001,Logística Pacífico Regional SAC,Joaquín Linares Lozano,Logística,Lima,LinkedIn,Diego Salazar,2026-03-13,2026-04-24,Contactado
+LEAD-0002,Servicios Brisa Integral SAC,Mariana Campos Medina,Servicios,Piura,Referido,Carlos Mendoza,2026-06-19,2026-08-31,Calificado
+LEAD-0003,Industrias Altavista Global SAC,Joaquín Cáceres Vidal,Manufactura,Trujillo,Referido,Diego Salazar,2025-12-05,2026-04-26,Descartado
+LEAD-0004,Minera Brisa del Sur SAC,Mateo Lozano Ponce,Minería,Trujillo,Referido,Carlos Mendoza,2025-12-08,2026-05-06,Calificado
+LEAD-0005,Agroexportadora Cumbre Integral SAC,Sebastián Linares Linares,Agroindustria,Piura,LinkedIn,Andrea Torres,2026-05-08,2026-07-20,Calificado
+LEAD-0006,Comercial Altavista del Sol SAC,Renata Robles Paredes,Retail,Lima,Referido,Lucía Vega,2026-05-05,2026-08-27,Descartado
+LEAD-0007,Comercial Prisma del Norte SAC,Gabriel Paredes Paredes,Retail,Arequipa,Referido,Andrea Torres,2026-05-15,2026-09-19,Nuevo
+LEAD-0008,Constructora Pacífico Integral SAC,Sebastián Fuentes Aguilar,Construcción,Piura,Website,Lucía Vega,2025-11-06,2026-01-05,Descartado
+LEAD-0009,Industrias Andina del Sol SAC,Gabriel Campos Linares,Manufactura,Lima,Website,Carlos Mendoza,2025-10-12,2025-12-11,Convertido
+LEAD-0010,Tecnología Solaris del Valle SAC,Gabriel Cáceres Linares,Tecnología,Cusco,Prospección directa,Diego Salazar,2025-10-22,2026-06-14,Calificado
+LEAD-0011,Comercial Solaris del Norte SAC,Camila Paredes Aranda,Retail,Cusco,Evento,Carlos Mendoza,2026-08-17,2026-08-22,Nuevo
+LEAD-0012,Turismo Nova del Norte SAC,Mariana Lozano Medina,Turismo,Lima,Referido,Diego Salazar,2026-06-16,2026-09-03,Contactado
+LEAD-0013,Constructora Prisma Perú SAC,Alonso Paredes Linares,Construcción,Lima,LinkedIn,Lucía Vega,2026-04-18,2026-08-26,Nuevo
+LEAD-0014,Comercial Brisa Regional SAC,Renata Robles Vidal,Retail,Arequipa,Referido,Diego Salazar,2026-04-06,2026-05-21,Calificado
+LEAD-0015,Agroexportadora Altavista del Pacífico SAC,Alonso Delgado Fuentes,Agroindustria,Lima,LinkedIn,Lucía Vega,2025-12-02,2026-02-26,Convertido
+LEAD-0016,Servicios Andina del Valle SAC,Renata Fuentes Linares,Servicios,Ica,Prospección directa,Andrea Torres,2025-11-03,2026-09-03,Calificado
+LEAD-0017,Servicios Aurora Perú SAC,Mateo Navarro Medina,Servicios,Trujillo,LinkedIn,Diego Salazar,2026-06-17,2026-08-16,Calificado
+LEAD-0018,Constructora Prisma Regional SAC,Alonso Ponce Campos,Construcción,Ica,LinkedIn,Carlos Mendoza,2026-01-08,2026-03-07,Nuevo
+LEAD-0019,Comercial Solaris del Pacífico SAC,Renata Cáceres Paredes,Retail,Lima,Evento,Andrea Torres,2025-10-30,2026-02-09,Calificado
+LEAD-0020,Logística Brisa del Norte SAC,Sebastián Fuentes Vidal,Logística,Cusco,LinkedIn,Andrea Torres,2025-11-27,2026-09-17,Calificado
+LEAD-0021,Logística Solaris del Valle SAC,Gabriel Paredes Navarro,Logística,Arequipa,Referido,Diego Salazar,2025-12-14,2026-03-12,Convertido
+LEAD-0022,Servicios Prisma Integral SAC,Sebastián Delgado Aguilar,Servicios,Lima,LinkedIn,Diego Salazar,2026-05-06,2026-06-30,Convertido
+LEAD-0023,Minera Altavista del Sol SAC,Joaquín Medina Aguilar,Minería,Lima,Referido,Lucía Vega,2026-05-19,2026-08-18,Contactado
+LEAD-0024,Constructora Brisa del Sol SAC,Mariana Navarro Lozano,Construcción,Lima,Prospección directa,Lucía Vega,2026-04-04,2026-05-01,Nuevo
+LEAD-0025,Logística Andina del Valle SAC,Renata Paredes Ponce,Logística,Lima,Prospección directa,Diego Salazar,2025-11-30,2026-01-19,Calificado
+LEAD-0026,Agroexportadora Nova del Sur SAC,Mariana Cáceres Delgado,Agroindustria,Lima,LinkedIn,Andrea Torres,2025-11-12,2025-11-24,Convertido
+LEAD-0027,Minera Horizonte Integral SAC,Mariana Vidal Navarro,Minería,Lima,LinkedIn,Diego Salazar,2026-05-09,2026-06-26,Contactado
+LEAD-0028,Industrias Horizonte del Sol SAC,Alonso Rivas Navarro,Manufactura,Lima,LinkedIn,Carlos Mendoza,2026-05-09,2026-08-23,Contactado
+LEAD-0029,Tecnología Aurora del Sur SAC,Daniela Soto Medina,Tecnología,Cusco,LinkedIn,Andrea Torres,2026-01-19,2026-08-21,Descartado
+LEAD-0030,Constructora Solaris Integral SAC,Alonso Vidal Vidal,Construcción,Lima,LinkedIn,Lucía Vega,2025-11-10,2026-06-08,Convertido
+LEAD-0031,Industrias Pacífico Global SAC,Camila Ponce Aguilar,Manufactura,Trujillo,Website,Lucía Vega,2026-05-20,2026-08-10,Calificado
+LEAD-0032,Industrias Cumbre del Norte SAC,Renata Campos Vidal,Manufactura,Cusco,Website,Carlos Mendoza,2025-09-30,2025-11-11,Calificado
+LEAD-0033,Servicios Altavista del Sur SAC,Daniela Cáceres Delgado,Servicios,Lima,LinkedIn,Carlos Mendoza,2026-06-18,2026-08-12,Contactado
+LEAD-0034,Comercial Solaris del Sur SAC,Daniela Aguilar Soto,Retail,Piura,LinkedIn,Lucía Vega,2026-01-21,2026-08-08,Descartado
+LEAD-0035,Industrias Solaris del Sur SAC,Valeria Aranda Vidal,Manufactura,Chiclayo,Referido,Andrea Torres,2026-06-22,2026-08-02,Convertido
+LEAD-0036,Comercial Brisa Central SAC,Joaquín Navarro Lozano,Retail,Arequipa,Evento,Diego Salazar,2026-03-20,2026-05-24,Convertido
+LEAD-0037,Comercial Brisa del Norte SAC,Mateo Rivas Fuentes,Retail,Lima,Prospección directa,Andrea Torres,2026-03-24,2026-06-30,Contactado
+LEAD-0038,Comercial Aurora Integral SAC,Alonso Robles Rivas,Retail,Piura,Referido,Andrea Torres,2026-04-07,2026-06-09,Contactado
+LEAD-0039,Comercial Andina del Valle SAC,Mateo Linares Vidal,Retail,Lima,LinkedIn,Diego Salazar,2026-01-22,2026-05-03,Nuevo
+LEAD-0040,Agroexportadora Andina del Sur SAC,Gabriel Ponce Lozano,Agroindustria,Lima,Prospección directa,Diego Salazar,2025-12-19,2026-06-05,Convertido
+LEAD-0041,Comercial Horizonte del Sol SAC,Valeria Delgado Campos,Retail,Lima,LinkedIn,Carlos Mendoza,2026-05-13,2026-06-17,Descartado
+LEAD-0042,Minera Andina Perú SAC,Alonso Delgado Fuentes,Minería,Arequipa,Prospección directa,Diego Salazar,2025-10-12,2026-08-16,Nuevo
+LEAD-0043,Agroexportadora Altavista Regional SAC,Valeria Campos Delgado,Agroindustria,Lima,Referido,Lucía Vega,2026-01-28,2026-07-13,Calificado
+LEAD-0044,Logística Cumbre del Norte SAC,Renata Cáceres Medina,Logística,Lima,Referido,Andrea Torres,2026-03-09,2026-07-05,Calificado
+LEAD-0045,Tecnología Aurora Regional SAC,Daniela Linares Lozano,Tecnología,Cusco,Website,Diego Salazar,2026-05-04,2026-06-16,Convertido
+LEAD-0046,Tecnología Pacífico del Valle SAC,Renata Soto Navarro,Tecnología,Lima,LinkedIn,Diego Salazar,2026-06-13,2026-07-08,Nuevo
+LEAD-0047,Agroexportadora Aurora Integral SAC,Mariana Delgado Linares,Agroindustria,Lima,LinkedIn,Andrea Torres,2025-12-22,2026-03-21,Calificado
+LEAD-0048,Constructora Aurora Global SAC,Renata Aguilar Navarro,Construcción,Lima,LinkedIn,Carlos Mendoza,2026-02-19,2026-03-26,Calificado
+LEAD-0049,Tecnología Nova Central SAC,Valeria Medina Navarro,Tecnología,Lima,Referido,Diego Salazar,2026-05-07,2026-06-21,Contactado
+LEAD-0050,Turismo Andina Central SAC,Mateo Fuentes Medina,Turismo,Trujillo,Website,Lucía Vega,2025-10-20,2025-12-08,Convertido
+LEAD-0051,Servicios Solaris Regional SAC,Valeria Vidal Aguilar,Servicios,Trujillo,LinkedIn,Carlos Mendoza,2025-12-11,2026-07-12,Calificado
+LEAD-0052,Comercial Aurora del Sur SAC,Alonso Fuentes Paredes,Retail,Chiclayo,Website,Lucía Vega,2026-03-27,2026-07-13,Calificado
+LEAD-0053,Servicios Cumbre del Sur SAC,Alonso Aguilar Soto,Servicios,Lima,Website,Lucía Vega,2026-03-29,2026-04-04,Descartado
+LEAD-0054,Agroexportadora Andina Global SAC,Alonso Robles Aranda,Agroindustria,Lima,Prospección directa,Carlos Mendoza,2026-04-12,2026-09-07,Calificado
+LEAD-0055,Comercial Aurora del Sol SAC,Gabriel Fuentes Cáceres,Retail,Trujillo,Referido,Diego Salazar,2025-12-25,2026-04-06,Nuevo
+LEAD-0056,Constructora Horizonte del Norte SAC,Joaquín Delgado Ponce,Construcción,Chiclayo,LinkedIn,Andrea Torres,2026-05-07,2026-06-17,Contactado
+LEAD-0057,Comercial Cumbre Regional SAC,Gabriel Lozano Aguilar,Retail,Lima,Prospección directa,Andrea Torres,2025-10-28,2026-05-22,Convertido
+LEAD-0058,Logística Aurora Global SAC,Alonso Soto Delgado,Logística,Lima,Prospección directa,Andrea Torres,2026-03-03,2026-05-17,Contactado
+LEAD-0059,Logística Pacífico del Valle SAC,Alonso Aranda Cáceres,Logística,Chiclayo,Prospección directa,Andrea Torres,2025-12-19,2026-07-29,Convertido
+LEAD-0060,Logística Prisma del Valle SAC,Gabriel Rivas Medina,Logística,Trujillo,Website,Lucía Vega,2026-01-20,2026-08-16,Nuevo
+LEAD-0061,Constructora Andina Integral SAC,Sebastián Soto Soto,Construcción,Arequipa,Referido,Lucía Vega,2025-11-26,2026-09-09,Contactado
+LEAD-0062,Turismo Altavista Central SAC,Mariana Navarro Navarro,Turismo,Cusco,Prospección directa,Diego Salazar,2026-05-24,2026-07-02,Calificado
+LEAD-0063,Comercial Solaris Global SAC,Mateo Aguilar Aguilar,Retail,Chiclayo,Evento,Diego Salazar,2026-03-02,2026-06-08,Calificado
+LEAD-0064,Constructora Solaris del Sol SAC,Camila Navarro Paredes,Construcción,Arequipa,Prospección directa,Carlos Mendoza,2025-12-23,2026-01-14,Calificado
+LEAD-0065,Tecnología Solaris del Norte SAC,Camila Lozano Linares,Tecnología,Lima,Prospección directa,Andrea Torres,2026-02-23,2026-06-30,Convertido
+LEAD-0066,Minera Pacífico del Norte SAC,Renata Soto Robles,Minería,Lima,LinkedIn,Andrea Torres,2026-06-13,2026-07-15,Contactado
+LEAD-0067,Industrias Prisma Integral SAC,Camila Delgado Soto,Manufactura,Cusco,Website,Carlos Mendoza,2026-02-08,2026-09-01,Convertido
+LEAD-0068,Minera Solaris del Pacífico SAC,Camila Linares Paredes,Minería,Lima,Prospección directa,Carlos Mendoza,2025-12-08,2026-06-14,Contactado
+LEAD-0069,Comercial Prisma Perú SAC,Sebastián Robles Campos,Retail,Cusco,Email,Lucía Vega,2025-10-14,2025-11-24,Convertido
+LEAD-0070,Tecnología Altavista Integral SAC,Valeria Ponce Delgado,Tecnología,Cusco,Evento,Lucía Vega,2026-08-14,2026-09-11,Nuevo
+LEAD-0071,Constructora Nova del Sol SAC,Daniela Delgado Aguilar,Construcción,Arequipa,LinkedIn,Andrea Torres,2026-01-24,2026-07-17,Descartado
+LEAD-0072,Comercial Aurora del Valle SAC,Daniela Ponce Aguilar,Retail,Lima,LinkedIn,Carlos Mendoza,2026-05-04,2026-06-17,Descartado
+LEAD-0073,Agroexportadora Andina Perú SAC,Alonso Medina Fuentes,Agroindustria,Arequipa,LinkedIn,Lucía Vega,2026-02-28,2026-06-17,Convertido
+LEAD-0074,Constructora Pacífico del Sur SAC,Alonso Aranda Aguilar,Construcción,Piura,LinkedIn,Lucía Vega,2025-11-14,2025-12-29,Calificado
+LEAD-0075,Tecnología Pacífico del Norte SAC,Mateo Paredes Delgado,Tecnología,Chiclayo,Prospección directa,Lucía Vega,2025-12-02,2026-04-11,Descartado
+LEAD-0076,Logística Horizonte Integral SAC,Joaquín Lozano Linares,Logística,Lima,Prospección directa,Lucía Vega,2026-04-23,2026-05-18,Convertido
+LEAD-0077,Servicios Pacífico del Pacífico SAC,Camila Ponce Aguilar,Servicios,Cusco,Website,Lucía Vega,2025-12-27,2026-06-10,Contactado
+LEAD-0078,Constructora Cumbre Integral SAC,Mateo Fuentes Aguilar,Construcción,Piura,Prospección directa,Lucía Vega,2025-10-02,2026-02-15,Convertido
+LEAD-0079,Minera Prisma Regional SAC,Valeria Paredes Delgado,Minería,Lima,Website,Lucía Vega,2026-03-20,2026-08-13,Descartado
+LEAD-0080,Industrias Brisa Global SAC,Renata Rivas Cáceres,Manufactura,Chiclayo,Referido,Diego Salazar,2026-05-19,2026-08-17,Contactado
+LEAD-0081,Industrias Horizonte del Valle SAC,Daniela Medina Paredes,Manufactura,Trujillo,Referido,Diego Salazar,2026-03-27,2026-04-14,Calificado
+LEAD-0082,Agroexportadora Prisma Central SAC,Alonso Delgado Soto,Agroindustria,Lima,Referido,Diego Salazar,2025-12-29,2026-03-20,Contactado
+LEAD-0083,Tecnología Prisma del Valle SAC,Sebastián Cáceres Vidal,Tecnología,Lima,Prospección directa,Andrea Torres,2026-02-11,2026-05-25,Descartado
+LEAD-0084,Tecnología Brisa del Sur SAC,Mariana Medina Vidal,Tecnología,Lima,LinkedIn,Diego Salazar,2026-03-13,2026-06-10,Nuevo
+LEAD-0085,Tecnología Prisma Integral SAC,Valeria Paredes Paredes,Tecnología,Lima,LinkedIn,Andrea Torres,2026-06-04,2026-07-07,Convertido
+LEAD-0086,Constructora Aurora del Norte SAC,Mariana Aguilar Vidal,Construcción,Lima,Website,Diego Salazar,2026-05-21,2026-09-18,Convertido
+LEAD-0087,Tecnología Cumbre del Pacífico SAC,Sebastián Linares Lozano,Tecnología,Lima,Referido,Andrea Torres,2026-03-07,2026-08-12,Contactado
+LEAD-0088,Agroexportadora Aurora del Valle SAC,Sebastián Linares Ponce,Agroindustria,Lima,Evento,Andrea Torres,2026-02-21,2026-09-19,Contactado
+LEAD-0089,Constructora Prisma Global SAC,Alonso Linares Cáceres,Construcción,Lima,Prospección directa,Andrea Torres,2025-09-29,2025-11-26,Nuevo
+LEAD-0090,Agroexportadora Solaris del Sol SAC,Sebastián Ponce Robles,Agroindustria,Lima,Prospección directa,Carlos Mendoza,2025-10-04,2026-05-20,Descartado
+LEAD-0091,Logística Nova Central SAC,Valeria Ponce Lozano,Logística,Lima,Website,Diego Salazar,2026-01-15,2026-06-21,Descartado
+LEAD-0092,Servicios Brisa del Norte SAC,Camila Aranda Paredes,Servicios,Lima,Website,Lucía Vega,2026-04-03,2026-08-30,Convertido
+LEAD-0093,Servicios Prisma del Sol SAC,Valeria Aguilar Linares,Servicios,Lima,Referido,Diego Salazar,2025-12-27,2026-02-23,Contactado
+LEAD-0094,Tecnología Pacífico del Pacífico SAC,Daniela Ponce Paredes,Tecnología,Arequipa,Evento,Carlos Mendoza,2026-01-03,2026-02-06,Calificado
+LEAD-0095,Tecnología Cumbre del Norte SAC,Gabriel Fuentes Linares,Tecnología,Lima,Prospección directa,Lucía Vega,2026-03-06,2026-07-16,Descartado
+LEAD-0096,Tecnología Horizonte Integral SAC,Alonso Medina Robles,Tecnología,Piura,Website,Carlos Mendoza,2026-06-20,2026-07-24,Calificado
+LEAD-0097,Minera Andina Central SAC,Renata Delgado Aranda,Minería,Ica,Prospección directa,Andrea Torres,2026-01-25,2026-04-10,Contactado
+LEAD-0098,Turismo Horizonte del Valle SAC,Joaquín Ponce Linares,Turismo,Lima,Referido,Lucía Vega,2026-02-15,2026-06-21,Calificado
+LEAD-0099,Agroexportadora Andina Integral SAC,Renata Cáceres Fuentes,Agroindustria,Cusco,Prospección directa,Lucía Vega,2026-02-08,2026-05-29,Convertido
+LEAD-0100,Tecnología Cumbre Regional SAC,Camila Delgado Paredes,Tecnología,Huánuco,Referido,Carlos Mendoza,2026-03-16,2026-05-20,Convertido
+LEAD-0101,Servicios Prisma Global SAC,Gabriel Robles Ponce,Servicios,Arequipa,LinkedIn,Andrea Torres,2026-03-17,2026-04-29,Calificado
+LEAD-0102,Logística Horizonte Central SAC,Mariana Robles Vidal,Logística,Trujillo,LinkedIn,Diego Salazar,2026-02-06,2026-05-01,Calificado
+LEAD-0103,Servicios Nova Perú SAC,Joaquín Paredes Aranda,Servicios,Huánuco,Evento,Carlos Mendoza,2026-01-21,2026-02-21,Convertido
+LEAD-0104,Comercial Cumbre Perú SAC,Alonso Ponce Cáceres,Retail,Lima,Evento,Diego Salazar,2026-04-20,2026-07-20,Convertido
+LEAD-0105,Comercial Andina del Pacífico SAC,Daniela Ponce Ponce,Retail,Piura,Evento,Andrea Torres,2025-12-10,2026-08-28,Convertido
+LEAD-0106,Servicios Altavista Integral SAC,Alonso Delgado Paredes,Servicios,Lima,Prospección directa,Lucía Vega,2026-02-15,2026-04-20,Contactado
+LEAD-0107,Comercial Pacífico del Norte SAC,Mariana Paredes Lozano,Retail,Piura,Referido,Carlos Mendoza,2026-01-17,2026-03-23,Calificado
+LEAD-0108,Logística Brisa Global SAC,Daniela Ponce Lozano,Logística,Lima,Prospección directa,Andrea Torres,2025-10-09,2026-05-27,Descartado
+LEAD-0109,Turismo Altavista del Pacífico SAC,Valeria Rivas Delgado,Turismo,Lima,Website,Lucía Vega,2026-02-16,2026-04-07,Calificado
+LEAD-0110,Comercial Nova del Norte SAC,Renata Aguilar Ponce,Retail,Ica,Prospección directa,Diego Salazar,2026-03-11,2026-07-25,Contactado
+LEAD-0111,Comercial Andina del Sur SAC,Gabriel Robles Campos,Retail,Lima,Prospección directa,Carlos Mendoza,2026-06-06,2026-07-21,Convertido
+LEAD-0112,Constructora Prisma Central SAC,Renata Lozano Rivas,Construcción,Trujillo,Email,Diego Salazar,2026-05-13,2026-05-24,Descartado
+LEAD-0113,Logística Cumbre del Sur SAC,Camila Fuentes Navarro,Logística,Lima,Website,Andrea Torres,2025-12-28,2026-09-11,Contactado
+LEAD-0114,Comercial Andina Regional SAC,Camila Vidal Ponce,Retail,Lima,Referido,Carlos Mendoza,2025-11-08,2026-06-13,Convertido
+LEAD-0115,Minera Andina del Norte SAC,Daniela Aranda Aguilar,Minería,Ica,Email,Andrea Torres,2026-02-01,2026-02-17,Convertido
+LEAD-0116,Industrias Horizonte Central SAC,Sebastián Rivas Robles,Manufactura,Lima,Evento,Andrea Torres,2026-02-22,2026-08-10,Convertido
+LEAD-0117,Servicios Pacífico del Sol SAC,Mateo Aguilar Delgado,Servicios,Lima,LinkedIn,Carlos Mendoza,2025-10-22,2025-11-15,Convertido
+LEAD-0118,Servicios Aurora del Pacífico SAC,Mateo Delgado Medina,Servicios,Lima,Website,Diego Salazar,2026-02-27,2026-03-31,Calificado
+LEAD-0119,Minera Horizonte Central SAC,Gabriel Vidal Aguilar,Minería,Arequipa,Email,Carlos Mendoza,2025-11-28,2026-02-09,Nuevo
+LEAD-0120,Agroexportadora Cumbre del Sur SAC,Mariana Ponce Campos,Agroindustria,Lima,Email,Lucía Vega,2026-04-21,2026-07-25,Descartado
+LEAD-0121,Servicios Andina del Pacífico SAC,Mariana Aguilar Medina,Servicios,Trujillo,LinkedIn,Diego Salazar,2025-11-01,2025-12-15,Calificado
+LEAD-0122,Agroexportadora Altavista del Norte SAC,Mariana Campos Vidal,Agroindustria,Lima,LinkedIn,Andrea Torres,2025-10-22,2025-12-28,Convertido
+LEAD-0123,Logística Prisma del Sol SAC,Mateo Campos Ponce,Logística,Cusco,LinkedIn,Lucía Vega,2026-05-05,2026-05-26,Descartado
+LEAD-0124,Tecnología Nova Global SAC,Gabriel Vidal Navarro,Tecnología,Lima,Referido,Lucía Vega,2025-10-19,2026-04-13,Descartado
+LEAD-0125,Comercial Aurora del Norte SAC,Renata Rivas Fuentes,Retail,Lima,Referido,Lucía Vega,2026-05-15,2026-06-18,Calificado
+LEAD-0126,Comercial Horizonte Central SAC,Sebastián Soto Paredes,Retail,Lima,Referido,Lucía Vega,2026-01-10,2026-03-07,Contactado
+LEAD-0127,Servicios Horizonte Integral SAC,Mateo Ponce Paredes,Servicios,Huánuco,Referido,Lucía Vega,2025-10-21,2026-07-23,Convertido
+LEAD-0128,Minera Horizonte del Sol SAC,Daniela Medina Fuentes,Minería,Arequipa,Referido,Carlos Mendoza,2025-11-29,2026-04-21,Convertido
+LEAD-0129,Industrias Aurora del Valle SAC,Daniela Soto Vidal,Manufactura,Arequipa,Evento,Carlos Mendoza,2026-04-02,2026-04-20,Descartado
+LEAD-0130,Constructora Nova Regional SAC,Mariana Fuentes Vidal,Construcción,Arequipa,Evento,Carlos Mendoza,2025-12-21,2026-03-27,Calificado
+LEAD-0131,Minera Aurora Global SAC,Valeria Delgado Aguilar,Minería,Cusco,Evento,Andrea Torres,2025-09-22,2025-09-29,Calificado
+LEAD-0132,Agroexportadora Solaris del Pacífico SAC,Daniela Aranda Aranda,Agroindustria,Huánuco,Referido,Lucía Vega,2026-06-20,2026-09-01,Calificado
+LEAD-0133,Comercial Horizonte del Norte SAC,Mateo Paredes Navarro,Retail,Piura,Website,Diego Salazar,2025-12-26,2026-04-25,Contactado
+LEAD-0134,Industrias Pacífico Central SAC,Joaquín Campos Soto,Manufactura,Huánuco,LinkedIn,Diego Salazar,2025-09-29,2026-04-24,Convertido
+LEAD-0135,Comercial Prisma Central SAC,Joaquín Paredes Fuentes,Retail,Lima,Referido,Diego Salazar,2025-10-15,2026-01-15,Convertido
+LEAD-0136,Agroexportadora Cumbre del Norte SAC,Camila Delgado Aranda,Agroindustria,Lima,Prospección directa,Andrea Torres,2025-10-19,2026-03-24,Contactado
+LEAD-0137,Servicios Nova Regional SAC,Sebastián Linares Aranda,Servicios,Arequipa,Referido,Lucía Vega,2026-03-03,2026-04-24,Convertido
+LEAD-0138,Comercial Horizonte Perú SAC,Joaquín Navarro Delgado,Retail,Lima,Referido,Andrea Torres,2026-06-14,2026-07-10,Calificado
+LEAD-0139,Agroexportadora Horizonte Integral SAC,Daniela Ponce Paredes,Agroindustria,Lima,Prospección directa,Carlos Mendoza,2025-12-19,2026-03-24,Calificado
+LEAD-0140,Industrias Pacífico del Valle SAC,Mariana Linares Navarro,Manufactura,Lima,Referido,Andrea Torres,2026-04-04,2026-07-05,Descartado
+LEAD-0141,Constructora Horizonte del Sur SAC,Mariana Ponce Aranda,Construcción,Lima,Prospección directa,Andrea Torres,2025-12-24,2026-06-11,Descartado
+LEAD-0142,Constructora Aurora del Sur SAC,Gabriel Paredes Navarro,Construcción,Cusco,Prospección directa,Andrea Torres,2025-12-03,2026-06-04,Contactado
+LEAD-0143,Agroexportadora Nova Perú SAC,Daniela Aranda Robles,Agroindustria,Lima,LinkedIn,Carlos Mendoza,2025-11-28,2026-08-04,Nuevo
+LEAD-0144,Servicios Andina Global SAC,Alonso Soto Campos,Servicios,Arequipa,LinkedIn,Carlos Mendoza,2026-05-09,2026-06-22,Descartado
+LEAD-0145,Constructora Nova Perú SAC,Mateo Campos Campos,Construcción,Lima,Referido,Lucía Vega,2025-10-11,2025-11-28,Calificado
+LEAD-0146,Logística Brisa del Sol SAC,Renata Rivas Campos,Logística,Lima,Prospección directa,Lucía Vega,2026-03-10,2026-09-14,Calificado
+LEAD-0147,Turismo Pacífico Integral SAC,Gabriel Aranda Campos,Turismo,Trujillo,Referido,Lucía Vega,2025-11-20,2026-01-20,Convertido
+LEAD-0148,Minera Cumbre Integral SAC,Renata Fuentes Aguilar,Minería,Arequipa,Website,Carlos Mendoza,2026-03-04,2026-04-27,Descartado
+LEAD-0149,Constructora Altavista Perú SAC,Alonso Ponce Aguilar,Construcción,Arequipa,LinkedIn,Lucía Vega,2026-02-01,2026-06-22,Nuevo
+LEAD-0150,Turismo Prisma del Norte SAC,Alonso Campos Medina,Turismo,Lima,Referido,Diego Salazar,2026-05-19,2026-07-18,Calificado
+LEAD-0151,Comercial Horizonte Regional SAC,Camila Rivas Robles,Retail,Trujillo,Website,Lucía Vega,2026-01-12,2026-02-08,Convertido
+LEAD-0152,Agroexportadora Brisa del Pacífico SAC,Renata Vidal Campos,Agroindustria,Lima,Referido,Andrea Torres,2026-04-22,2026-06-24,Calificado
+LEAD-0153,Constructora Horizonte Integral SAC,Gabriel Linares Robles,Construcción,Trujillo,Email,Lucía Vega,2026-01-24,2026-06-01,Contactado
+LEAD-0154,Tecnología Nova Integral SAC,Gabriel Lozano Medina,Tecnología,Trujillo,LinkedIn,Carlos Mendoza,2026-05-30,2026-08-02,Descartado
+LEAD-0155,Servicios Solaris del Norte SAC,Camila Paredes Paredes,Servicios,Piura,Prospección directa,Lucía Vega,2026-05-29,2026-07-07,Calificado
+LEAD-0156,Comercial Brisa del Pacífico SAC,Valeria Navarro Vidal,Retail,Arequipa,Prospección directa,Andrea Torres,2025-10-15,2025-12-25,Descartado
+LEAD-0157,Minera Nova Perú SAC,Valeria Campos Aguilar,Minería,Lima,Referido,Lucía Vega,2025-12-07,2026-06-06,Convertido
+LEAD-0158,Agroexportadora Cumbre Global SAC,Gabriel Rivas Rivas,Agroindustria,Chiclayo,Website,Carlos Mendoza,2026-05-26,2026-06-25,Calificado
+LEAD-0159,Tecnología Andina del Pacífico SAC,Mariana Robles Delgado,Tecnología,Piura,LinkedIn,Andrea Torres,2025-09-29,2026-06-05,Contactado
+LEAD-0160,Logística Nova Global SAC,Camila Cáceres Cáceres,Logística,Trujillo,Website,Carlos Mendoza,2026-04-29,2026-08-01,Descartado
+LEAD-0161,Minera Pacífico del Valle SAC,Mariana Robles Medina,Minería,Arequipa,Referido,Diego Salazar,2026-08-04,2026-08-06,Nuevo
+LEAD-0162,Tecnología Pacífico Integral SAC,Daniela Aguilar Aranda,Tecnología,Lima,Prospección directa,Andrea Torres,2026-03-31,2026-08-10,Contactado
+LEAD-0163,Minera Cumbre del Sol SAC,Valeria Soto Fuentes,Minería,Lima,Referido,Diego Salazar,2025-11-01,2026-06-21,Contactado
+LEAD-0164,Agroexportadora Nova del Valle SAC,Valeria Lozano Soto,Agroindustria,Lima,Website,Carlos Mendoza,2025-10-19,2025-12-13,Calificado
+LEAD-0165,Tecnología Horizonte Central SAC,Sebastián Cáceres Paredes,Tecnología,Arequipa,LinkedIn,Lucía Vega,2026-03-09,2026-09-11,Calificado
+LEAD-0166,Industrias Solaris Global SAC,Renata Paredes Soto,Manufactura,Huánuco,Evento,Lucía Vega,2026-05-22,2026-06-24,Contactado
+LEAD-0167,Constructora Andina del Valle SAC,Camila Linares Rivas,Construcción,Lima,Prospección directa,Diego Salazar,2025-10-07,2025-12-12,Calificado
+LEAD-0168,Agroexportadora Prisma Integral SAC,Mateo Delgado Lozano,Agroindustria,Arequipa,Website,Andrea Torres,2026-04-12,2026-05-01,Descartado
+LEAD-0169,Agroexportadora Altavista Perú SAC,Mariana Linares Fuentes,Agroindustria,Arequipa,Email,Carlos Mendoza,2026-04-08,2026-05-20,Calificado
+LEAD-0170,Comercial Pacífico Global SAC,Mariana Medina Paredes,Retail,Lima,LinkedIn,Andrea Torres,2025-10-31,2026-04-25,Convertido
+LEAD-0171,Minera Solaris Perú SAC,Alonso Fuentes Linares,Minería,Arequipa,LinkedIn,Diego Salazar,2025-10-29,2025-12-02,Convertido
+LEAD-0172,Constructora Nova Integral SAC,Gabriel Aranda Medina,Construcción,Piura,Website,Carlos Mendoza,2026-05-09,2026-09-14,Nuevo
+LEAD-0173,Constructora Solaris Regional SAC,Sebastián Fuentes Soto,Construcción,Trujillo,Email,Diego Salazar,2025-12-25,2026-02-19,Convertido
+LEAD-0174,Constructora Nova del Valle SAC,Mateo Soto Robles,Construcción,Lima,LinkedIn,Lucía Vega,2026-01-25,2026-06-21,Convertido
+LEAD-0175,Servicios Pacífico Central SAC,Daniela Linares Medina,Servicios,Cusco,LinkedIn,Andrea Torres,2025-12-08,2026-03-13,Contactado
+LEAD-0176,Comercial Altavista del Valle SAC,Gabriel Medina Robles,Retail,Piura,LinkedIn,Andrea Torres,2026-02-25,2026-08-27,Contactado
+LEAD-0177,Comercial Pacífico Regional SAC,Gabriel Navarro Cáceres,Retail,Arequipa,LinkedIn,Carlos Mendoza,2026-04-29,2026-08-13,Descartado
+LEAD-0178,Constructora Nova del Sur SAC,Sebastián Linares Fuentes,Construcción,Lima,LinkedIn,Diego Salazar,2025-11-07,2026-03-23,Convertido
+LEAD-0179,Tecnología Brisa del Pacífico SAC,Mariana Aranda Lozano,Tecnología,Lima,Evento,Lucía Vega,2025-11-03,2026-07-06,Nuevo
+LEAD-0180,Minera Pacífico Central SAC,Renata Robles Ponce,Minería,Lima,LinkedIn,Diego Salazar,2026-02-05,2026-03-18,Contactado
+LEAD-0181,Minera Solaris Global SAC,Daniela Delgado Ponce,Minería,Chiclayo,Email,Andrea Torres,2026-02-09,2026-02-20,Descartado
+LEAD-0182,Constructora Brisa del Sur SAC,Gabriel Campos Aguilar,Construcción,Lima,LinkedIn,Andrea Torres,2026-01-25,2026-08-04,Calificado
+LEAD-0183,Constructora Horizonte del Valle SAC,Alonso Fuentes Linares,Construcción,Cusco,Referido,Lucía Vega,2026-04-11,2026-04-21,Descartado
+LEAD-0184,Tecnología Nova Perú SAC,Renata Linares Campos,Tecnología,Cusco,Referido,Carlos Mendoza,2025-11-29,2026-04-10,Descartado
+LEAD-0185,Minera Cumbre del Norte SAC,Alonso Delgado Ponce,Minería,Trujillo,Prospección directa,Carlos Mendoza,2026-04-12,2026-07-24,Contactado
+LEAD-0186,Logística Pacífico Integral SAC,Daniela Robles Fuentes,Logística,Arequipa,Referido,Diego Salazar,2026-03-06,2026-05-03,Calificado
+LEAD-0187,Industrias Solaris del Norte SAC,Sebastián Lozano Rivas,Manufactura,Trujillo,Prospección directa,Carlos Mendoza,2026-01-01,2026-02-13,Nuevo
+LEAD-0188,Tecnología Brisa del Valle SAC,Gabriel Delgado Soto,Tecnología,Chiclayo,Prospección directa,Andrea Torres,2026-01-06,2026-08-17,Calificado
+LEAD-0189,Logística Prisma Perú SAC,Gabriel Vidal Delgado,Logística,Lima,LinkedIn,Diego Salazar,2026-04-18,2026-05-31,Contactado
+LEAD-0190,Servicios Brisa del Sol SAC,Daniela Soto Aguilar,Servicios,Lima,Prospección directa,Carlos Mendoza,2026-04-25,2026-07-08,Calificado
+LEAD-0191,Tecnología Aurora Global SAC,Mariana Navarro Paredes,Tecnología,Lima,Email,Carlos Mendoza,2026-04-14,2026-07-21,Calificado
+LEAD-0192,Constructora Altavista del Valle SAC,Sebastián Soto Cáceres,Construcción,Lima,Email,Carlos Mendoza,2026-06-22,2026-08-26,Descartado
+LEAD-0193,Servicios Nova Central SAC,Camila Paredes Fuentes,Servicios,Lima,Prospección directa,Andrea Torres,2026-03-21,2026-05-02,Nuevo
+LEAD-0194,Constructora Prisma del Sur SAC,Mateo Rivas Cáceres,Construcción,Lima,Referido,Diego Salazar,2026-04-29,2026-07-25,Contactado
+LEAD-0195,Tecnología Prisma del Norte SAC,Mariana Aranda Aguilar,Tecnología,Piura,Referido,Carlos Mendoza,2026-06-13,2026-07-26,Convertido
+LEAD-0196,Tecnología Nova Regional SAC,Camila Medina Rivas,Tecnología,Chiclayo,Website,Carlos Mendoza,2026-06-04,2026-07-25,Calificado
+LEAD-0197,Constructora Pacífico Global SAC,Mateo Vidal Medina,Construcción,Lima,Referido,Diego Salazar,2025-11-03,2026-05-24,Calificado
+LEAD-0198,Tecnología Cumbre del Sol SAC,Mariana Ponce Medina,Tecnología,Lima,Referido,Diego Salazar,2026-01-04,2026-02-22,Nuevo
+LEAD-0199,Tecnología Nova del Pacífico SAC,Alonso Soto Delgado,Tecnología,Lima,LinkedIn,Carlos Mendoza,2026-05-10,2026-06-28,Calificado
+LEAD-0200,Servicios Aurora del Sur SAC,Alonso Cáceres Lozano,Servicios,Lima,Prospección directa,Andrea Torres,2025-10-02,2025-12-20,Convertido
+LEAD-0201,Servicios Brisa del Valle SAC,Camila Lozano Linares,Servicios,Ica,Website,Carlos Mendoza,2026-06-12,2026-08-10,Convertido
+LEAD-0202,Industrias Altavista del Sol SAC,Daniela Lozano Lozano,Manufactura,Lima,Evento,Diego Salazar,2026-01-17,2026-04-10,Calificado
+LEAD-0203,Tecnología Brisa del Sol SAC,Sebastián Campos Aguilar,Tecnología,Lima,Website,Lucía Vega,2025-10-05,2025-11-27,Convertido
+LEAD-0204,Tecnología Altavista del Pacífico SAC,Joaquín Robles Soto,Tecnología,Cusco,Website,Diego Salazar,2026-01-08,2026-02-28,Convertido
+LEAD-0205,Logística Nova Integral SAC,Camila Medina Linares,Logística,Lima,LinkedIn,Diego Salazar,2026-06-22,2026-08-22,Contactado
+LEAD-0206,Comercial Prisma del Sol SAC,Mariana Linares Fuentes,Retail,Lima,Website,Andrea Torres,2026-05-29,2026-07-08,Convertido
+LEAD-0207,Agroexportadora Horizonte del Pacífico SAC,Alonso Aguilar Lozano,Agroindustria,Arequipa,Prospección directa,Andrea Torres,2026-03-18,2026-06-18,Calificado
+LEAD-0208,Servicios Horizonte Perú SAC,Sebastián Soto Vidal,Servicios,Trujillo,Referido,Diego Salazar,2026-02-20,2026-08-20,Convertido
+LEAD-0209,Minera Nova del Sur SAC,Camila Medina Vidal,Minería,Lima,Website,Carlos Mendoza,2025-11-19,2026-08-24,Descartado
+LEAD-0210,Tecnología Horizonte Perú SAC,Sebastián Fuentes Navarro,Tecnología,Huánuco,LinkedIn,Andrea Torres,2025-11-30,2025-12-02,Contactado
+LEAD-0211,Servicios Brisa Regional SAC,Mariana Lozano Ponce,Servicios,Arequipa,Referido,Andrea Torres,2025-12-18,2026-03-20,Convertido
+LEAD-0212,Minera Aurora del Sol SAC,Sebastián Paredes Medina,Minería,Ica,Prospección directa,Diego Salazar,2026-05-09,2026-08-04,Convertido
+LEAD-0213,Tecnología Andina del Valle SAC,Daniela Ponce Navarro,Tecnología,Lima,Evento,Carlos Mendoza,2025-12-29,2026-07-26,Nuevo
+LEAD-0214,Tecnología Prisma Global SAC,Gabriel Lozano Soto,Tecnología,Lima,Website,Lucía Vega,2026-05-06,2026-09-11,Convertido
+LEAD-0215,Logística Altavista Perú SAC,Renata Paredes Robles,Logística,Chiclayo,LinkedIn,Diego Salazar,2026-01-11,2026-03-16,Contactado
+LEAD-0216,Constructora Nova Central SAC,Sebastián Ponce Cáceres,Construcción,Lima,Website,Andrea Torres,2026-05-13,2026-08-29,Descartado
+LEAD-0217,Constructora Brisa Integral SAC,Mariana Paredes Aguilar,Construcción,Lima,Website,Lucía Vega,2026-03-27,2026-07-28,Calificado
+LEAD-0218,Turismo Pacífico del Sur SAC,Joaquín Delgado Paredes,Turismo,Lima,Referido,Carlos Mendoza,2025-11-12,2026-06-11,Contactado
+LEAD-0219,Constructora Andina del Sol SAC,Gabriel Cáceres Aranda,Construcción,Ica,LinkedIn,Lucía Vega,2025-11-04,2026-01-27,Calificado
+LEAD-0220,Servicios Horizonte del Valle SAC,Sebastián Navarro Lozano,Servicios,Lima,Website,Carlos Mendoza,2026-03-19,2026-04-19,Convertido
+LEAD-0221,Logística Horizonte Perú SAC,Valeria Medina Robles,Logística,Lima,Website,Lucía Vega,2026-01-04,2026-07-26,Descartado
+LEAD-0222,Minera Pacífico del Sol SAC,Renata Robles Cáceres,Minería,Arequipa,LinkedIn,Diego Salazar,2026-02-17,2026-08-04,Descartado
+LEAD-0223,Servicios Prisma Central SAC,Valeria Robles Vidal,Servicios,Ica,Evento,Andrea Torres,2026-04-19,2026-08-11,Descartado
+LEAD-0224,Comercial Cumbre Central SAC,Alonso Aranda Fuentes,Retail,Lima,Website,Carlos Mendoza,2025-12-04,2026-08-21,Contactado
+LEAD-0225,Agroexportadora Brisa del Sol SAC,Daniela Fuentes Aguilar,Agroindustria,Lima,LinkedIn,Andrea Torres,2026-02-05,2026-08-18,Calificado
+LEAD-0226,Logística Altavista del Norte SAC,Daniela Robles Medina,Logística,Lima,Referido,Diego Salazar,2025-11-07,2025-11-29,Convertido
+LEAD-0227,Tecnología Nova del Norte SAC,Mateo Aguilar Medina,Tecnología,Chiclayo,Prospección directa,Carlos Mendoza,2025-09-22,2026-05-21,Descartado
+LEAD-0228,Logística Andina del Sur SAC,Joaquín Navarro Campos,Logística,Piura,Website,Lucía Vega,2026-04-12,2026-09-05,Calificado
+LEAD-0229,Constructora Brisa Perú SAC,Alonso Vidal Ponce,Construcción,Lima,Email,Carlos Mendoza,2026-02-13,2026-07-18,Contactado
+LEAD-0230,Industrias Brisa Central SAC,Valeria Cáceres Aguilar,Manufactura,Huánuco,LinkedIn,Andrea Torres,2025-10-15,2026-05-08,Contactado
+LEAD-0231,Industrias Solaris Central SAC,Gabriel Aguilar Rivas,Manufactura,Lima,Prospección directa,Carlos Mendoza,2025-12-10,2026-01-08,Nuevo
+LEAD-0232,Tecnología Cumbre Global SAC,Camila Delgado Lozano,Tecnología,Lima,Prospección directa,Carlos Mendoza,2026-09-08,2026-09-20,Nuevo
+LEAD-0233,Logística Aurora Integral SAC,Alonso Robles Soto,Logística,Lima,Referido,Diego Salazar,2025-11-07,2026-02-04,Nuevo
+LEAD-0234,Industrias Andina Central SAC,Valeria Fuentes Delgado,Manufactura,Trujillo,Evento,Carlos Mendoza,2025-12-14,2026-01-01,Calificado
+LEAD-0235,Servicios Aurora del Norte SAC,Mateo Cáceres Rivas,Servicios,Trujillo,LinkedIn,Andrea Torres,2026-04-28,2026-09-07,Descartado
+LEAD-0236,Comercial Cumbre del Sur SAC,Joaquín Aguilar Rivas,Retail,Trujillo,LinkedIn,Diego Salazar,2026-07-21,2026-08-02,Nuevo
+LEAD-0237,Constructora Nova del Norte SAC,Daniela Vidal Ponce,Construcción,Lima,LinkedIn,Lucía Vega,2025-11-21,2026-09-10,Calificado
+LEAD-0238,Tecnología Pacífico del Sur SAC,Mateo Linares Medina,Tecnología,Cusco,Prospección directa,Lucía Vega,2025-11-12,2026-07-10,Convertido
+LEAD-0239,Comercial Brisa del Sol SAC,Camila Soto Rivas,Retail,Chiclayo,Website,Carlos Mendoza,2025-11-28,2026-09-15,Convertido
+LEAD-0240,Minera Brisa Central SAC,Joaquín Vidal Navarro,Minería,Lima,Website,Lucía Vega,2026-03-19,2026-04-10,Descartado
+LEAD-0241,Tecnología Prisma del Sol SAC,Mateo Cáceres Vidal,Tecnología,Lima,Email,Diego Salazar,2026-01-10,2026-07-28,Nuevo
+LEAD-0242,Agroexportadora Altavista del Valle SAC,Alonso Navarro Linares,Agroindustria,Lima,Email,Lucía Vega,2026-04-05,2026-07-15,Descartado
+LEAD-0243,Minera Nova Integral SAC,Joaquín Delgado Rivas,Minería,Lima,Prospección directa,Andrea Torres,2025-11-03,2026-07-26,Contactado
+LEAD-0244,Servicios Solaris Integral SAC,Joaquín Campos Fuentes,Servicios,Lima,Referido,Carlos Mendoza,2026-02-22,2026-03-11,Contactado
+LEAD-0245,Comercial Aurora Perú SAC,Gabriel Fuentes Cáceres,Retail,Trujillo,LinkedIn,Lucía Vega,2026-01-21,2026-07-25,Contactado
+LEAD-0246,Servicios Cumbre Central SAC,Mariana Rivas Medina,Servicios,Ica,Prospección directa,Andrea Torres,2025-10-27,2026-03-17,Contactado
+LEAD-0247,Comercial Altavista del Pacífico SAC,Alonso Lozano Ponce,Retail,Lima,Prospección directa,Diego Salazar,2026-04-24,2026-06-12,Descartado
+LEAD-0248,Servicios Prisma Perú SAC,Sebastián Soto Rivas,Servicios,Lima,Referido,Andrea Torres,2025-09-29,2026-04-23,Nuevo
+LEAD-0249,Comercial Nova Perú SAC,Daniela Delgado Navarro,Retail,Lima,Referido,Diego Salazar,2025-10-21,2026-08-11,Nuevo
+LEAD-0250,Tecnología Aurora del Pacífico SAC,Mariana Vidal Robles,Tecnología,Piura,LinkedIn,Carlos Mendoza,2026-06-22,2026-07-14,Descartado
